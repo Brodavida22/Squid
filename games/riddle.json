@@ -1,0 +1,1322 @@
+[
+  {
+    "question": "What has hands but cannot clap?",
+    "options": {
+      "A": "A glove",
+      "B": "A statue",
+      "C": "A robot",
+      "D": "A clock"
+    },
+    "answer": "D",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What has a face and two hands but no arms or legs?",
+    "options": {
+      "A": "A watchmaker",
+      "B": "A mirror",
+      "C": "A clock",
+      "D": "A doll"
+    },
+    "answer": "C",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What gets wetter the more it dries?",
+    "options": {
+      "A": "An umbrella",
+      "B": "The sun",
+      "C": "A sponge",
+      "D": "A towel"
+    },
+    "answer": "D",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What has to be broken before you can use it?",
+    "options": {
+      "A": "A key",
+      "B": "A promise",
+      "C": "An egg",
+      "D": "A window"
+    },
+    "answer": "C",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What has a neck but no head?",
+    "options": {
+      "A": "A shirt",
+      "B": "A guitar",
+      "C": "A road",
+      "D": "A bottle"
+    },
+    "answer": "D",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What month of the year has 28 days?",
+    "options": {
+      "A": "February only",
+      "B": "None of them",
+      "C": "January only",
+      "D": "All of them"
+    },
+    "answer": "D",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What can you catch but not throw?",
+    "options": {
+      "A": "A fish",
+      "B": "A ball",
+      "C": "A cold",
+      "D": "A thief"
+    },
+    "answer": "C",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What has one eye but cannot see?",
+    "options": {
+      "A": "A storm",
+      "B": "A cyclops",
+      "C": "A needle",
+      "D": "A potato"
+    },
+    "answer": "C",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What has many keys but can't open a single lock?",
+    "options": {
+      "A": "A piano",
+      "B": "A keyboard",
+      "C": "A locksmith's kit",
+      "D": "A vault"
+    },
+    "answer": "A",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What goes up but never comes down?",
+    "options": {
+      "A": "A kite",
+      "B": "Smoke",
+      "C": "Your age",
+      "D": "A balloon"
+    },
+    "answer": "C",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What has legs but doesn't walk?",
+    "options": {
+      "A": "A worm",
+      "B": "A snake",
+      "C": "A river",
+      "D": "A table"
+    },
+    "answer": "D",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is full of holes but still holds water?",
+    "options": {
+      "A": "A colander",
+      "B": "A bucket",
+      "C": "A net",
+      "D": "A sponge"
+    },
+    "answer": "D",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What has a thumb and four fingers but is not alive?",
+    "options": {
+      "A": "A puppet",
+      "B": "A hand",
+      "C": "A glove",
+      "D": "A statue"
+    },
+    "answer": "C",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What kind of tree can you carry in your hand?",
+    "options": {
+      "A": "A pine",
+      "B": "A willow",
+      "C": "An oak",
+      "D": "A palm"
+    },
+    "answer": "D",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What has words but never speaks?",
+    "options": {
+      "A": "A book",
+      "B": "A parrot",
+      "C": "A newspaper stand",
+      "D": "A radio"
+    },
+    "answer": "A",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is easy to get into but hard to get out of?",
+    "options": {
+      "A": "A car",
+      "B": "Trouble",
+      "C": "A maze",
+      "D": "A pool"
+    },
+    "answer": "B",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What has a bed but never sleeps?",
+    "options": {
+      "A": "A hospital",
+      "B": "A garden",
+      "C": "A hotel",
+      "D": "A river"
+    },
+    "answer": "D",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What can you break without touching it?",
+    "options": {
+      "A": "Glass",
+      "B": "A record",
+      "C": "A promise",
+      "D": "Ice"
+    },
+    "answer": "C",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What runs all around a backyard yet never moves?",
+    "options": {
+      "A": "A hose",
+      "B": "A river",
+      "C": "A dog",
+      "D": "A fence"
+    },
+    "answer": "D",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What comes once in a minute, twice in a moment, but never in a thousand years?",
+    "options": {
+      "A": "The letter M",
+      "B": "The letter N",
+      "C": "The letter T",
+      "D": "The letter S"
+    },
+    "answer": "A",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What has a ring but no finger?",
+    "options": {
+      "A": "A telephone",
+      "B": "A boxer",
+      "C": "A tree trunk",
+      "D": "A doorbell"
+    },
+    "answer": "A",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What building has the most stories?",
+    "options": {
+      "A": "A library",
+      "B": "A castle",
+      "C": "A skyscraper",
+      "D": "A school"
+    },
+    "answer": "A",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What has an eye but cannot see?",
+    "options": {
+      "A": "A camera",
+      "B": "A needle only",
+      "C": "A telescope",
+      "D": "A hurricane"
+    },
+    "answer": "D",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What can travel around the world while staying in a corner?",
+    "options": {
+      "A": "A satellite",
+      "B": "A coin",
+      "C": "A stamp",
+      "D": "A map"
+    },
+    "answer": "C",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What has to be in the light to work, but too much light ruins it?",
+    "options": {
+      "A": "A solar panel",
+      "B": "A photograph",
+      "C": "A lamp",
+      "D": "A candle"
+    },
+    "answer": "B",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is always coming but never arrives today?",
+    "options": {
+      "A": "The weekend",
+      "B": "Next year",
+      "C": "Tomorrow",
+      "D": "Christmas"
+    },
+    "answer": "C",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What can fill a room but takes up no space?",
+    "options": {
+      "A": "Smoke",
+      "B": "Sound",
+      "C": "Air",
+      "D": "Light"
+    },
+    "answer": "D",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What has a head and a tail but no body?",
+    "options": {
+      "A": "A snake",
+      "B": "A kite",
+      "C": "A coin",
+      "D": "A comet"
+    },
+    "answer": "C",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What kind of coat is always wet when you put it on?",
+    "options": {
+      "A": "A winter coat",
+      "B": "A raincoat",
+      "C": "A coat of paint",
+      "D": "A fur coat"
+    },
+    "answer": "C",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What has many teeth but cannot bite?",
+    "options": {
+      "A": "A comb",
+      "B": "A saw",
+      "C": "A zipper",
+      "D": "A gear"
+    },
+    "answer": "A",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What flies without wings?",
+    "options": {
+      "A": "A balloon",
+      "B": "Time",
+      "C": "A leaf",
+      "D": "A kite"
+    },
+    "answer": "B",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What has four wheels and flies?",
+    "options": {
+      "A": "A garbage truck",
+      "B": "A drone",
+      "C": "A helicopter",
+      "D": "An airplane"
+    },
+    "answer": "A",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What kind of room has no doors or windows?",
+    "options": {
+      "A": "A mushroom",
+      "B": "A basement",
+      "C": "A vault",
+      "D": "A tent"
+    },
+    "answer": "A",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What can you keep after giving it to someone?",
+    "options": {
+      "A": "A gift",
+      "B": "Money",
+      "C": "Your word",
+      "D": "A secret"
+    },
+    "answer": "C",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What has a spine but no bones?",
+    "options": {
+      "A": "A snake",
+      "B": "A cactus",
+      "C": "A book",
+      "D": "A fish"
+    },
+    "answer": "C",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What gets bigger the more you take away from it?",
+    "options": {
+      "A": "A debt",
+      "B": "A crowd",
+      "C": "A balloon",
+      "D": "A hole"
+    },
+    "answer": "D",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What can you hold without ever touching it?",
+    "options": {
+      "A": "Your breath",
+      "B": "A conversation",
+      "C": "A grudge",
+      "D": "Silence"
+    },
+    "answer": "B",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is so fragile that saying its name breaks it?",
+    "options": {
+      "A": "Silence",
+      "B": "Trust",
+      "C": "Glass",
+      "D": "A promise"
+    },
+    "answer": "A",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What kind of band never plays music?",
+    "options": {
+      "A": "A wristband",
+      "B": "A rubber band",
+      "C": "A wedding band",
+      "D": "A headband"
+    },
+    "answer": "B",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What has an ear but cannot hear?",
+    "options": {
+      "A": "A cup",
+      "B": "A microphone",
+      "C": "A wall",
+      "D": "A cornfield"
+    },
+    "answer": "D",
+    "difficulty": "easy"
+  },
+  {
+    "question": "The more you take, the more you leave behind. What am I?",
+    "options": {
+      "A": "Money",
+      "B": "Memories",
+      "C": "Footsteps",
+      "D": "Time"
+    },
+    "answer": "C",
+    "difficulty": "medium"
+  },
+  {
+    "question": "I speak without a mouth and hear without ears. What am I?",
+    "options": {
+      "A": "The wind",
+      "B": "A ghost",
+      "C": "An echo",
+      "D": "A shadow"
+    },
+    "answer": "C",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What has cities but no houses, forests but no trees, and rivers but no water?",
+    "options": {
+      "A": "A painting",
+      "B": "A globe",
+      "C": "A dream",
+      "D": "A map"
+    },
+    "answer": "D",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What can you break even if you never pick it up or touch it?",
+    "options": {
+      "A": "The rules",
+      "B": "A promise",
+      "C": "A record",
+      "D": "Silence"
+    },
+    "answer": "B",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What belongs to you, but other people use it more than you do?",
+    "options": {
+      "A": "Your car",
+      "B": "Your name",
+      "C": "Your house",
+      "D": "Your phone"
+    },
+    "answer": "B",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What has one head, one foot, and four legs?",
+    "options": {
+      "A": "A chair",
+      "B": "A bed",
+      "C": "A dog",
+      "D": "A table"
+    },
+    "answer": "B",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What question can you never answer yes to?",
+    "options": {
+      "A": "Are you sure?",
+      "B": "Are you here?",
+      "C": "Are you alive?",
+      "D": "Are you asleep?"
+    },
+    "answer": "D",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What five-letter word becomes shorter when you add two letters to it?",
+    "options": {
+      "A": "Small",
+      "B": "Brief",
+      "C": "Short",
+      "D": "Quick"
+    },
+    "answer": "C",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is always in front of you but can't be seen?",
+    "options": {
+      "A": "Tomorrow's weather",
+      "B": "The future",
+      "C": "The wind",
+      "D": "Your shadow"
+    },
+    "answer": "B",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What can be cracked, made, told, and played?",
+    "options": {
+      "A": "A code",
+      "B": "A secret",
+      "C": "A song",
+      "D": "A joke"
+    },
+    "answer": "D",
+    "difficulty": "medium"
+  },
+  {
+    "question": "I am not alive, but I grow; I don't have lungs, but I need air. What am I?",
+    "options": {
+      "A": "Coral",
+      "B": "A plant",
+      "C": "A balloon",
+      "D": "Fire"
+    },
+    "answer": "D",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What has a golden head and a golden tail but no golden body?",
+    "options": {
+      "A": "A key",
+      "B": "A crown",
+      "C": "A trophy",
+      "D": "A coin"
+    },
+    "answer": "D",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What invention lets you look right through a wall?",
+    "options": {
+      "A": "A window",
+      "B": "X-ray glasses",
+      "C": "A camera",
+      "D": "A telescope"
+    },
+    "answer": "A",
+    "difficulty": "medium"
+  },
+  {
+    "question": "The person who makes it has no need of it; the person who buys it has no use for it. What is it?",
+    "options": {
+      "A": "A coffin",
+      "B": "A crutch",
+      "C": "A ladder",
+      "D": "A wedding ring"
+    },
+    "answer": "A",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What can run but never walks, has a mouth but never talks?",
+    "options": {
+      "A": "A faucet",
+      "B": "A river",
+      "C": "A car",
+      "D": "A clock"
+    },
+    "answer": "B",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What word contains 26 letters but only has three syllables?",
+    "options": {
+      "A": "Alphabet",
+      "B": "Encyclopedia",
+      "C": "Dictionary",
+      "D": "Vocabulary"
+    },
+    "answer": "A",
+    "difficulty": "medium"
+  },
+  {
+    "question": "I have branches but no fruit, trunk, or leaves. What am I?",
+    "options": {
+      "A": "A bank",
+      "B": "A river",
+      "C": "A family tree",
+      "D": "A library"
+    },
+    "answer": "A",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What goes through cities and fields but never moves?",
+    "options": {
+      "A": "A river",
+      "B": "A train",
+      "C": "The wind",
+      "D": "A road"
+    },
+    "answer": "D",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What has a tongue but cannot talk, and a sole but no soul?",
+    "options": {
+      "A": "A sock",
+      "B": "A boot",
+      "C": "A drum",
+      "D": "A shoe"
+    },
+    "answer": "D",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is as light as a feather, yet no one can hold it for long?",
+    "options": {
+      "A": "Sleep",
+      "B": "Your breath",
+      "C": "A balloon",
+      "D": "A secret"
+    },
+    "answer": "B",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is black when clean and white when dirty?",
+    "options": {
+      "A": "A shirt",
+      "B": "Coal",
+      "C": "A mirror",
+      "D": "A chalkboard"
+    },
+    "answer": "D",
+    "difficulty": "medium"
+  },
+  {
+    "question": "I have keys but open no locks, space but no room, and you can enter but not go inside. What am I?",
+    "options": {
+      "A": "A safe",
+      "B": "A map",
+      "C": "A keyboard",
+      "D": "A piano"
+    },
+    "answer": "C",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What can you never eat for breakfast?",
+    "options": {
+      "A": "Dinner",
+      "B": "Cereal",
+      "C": "Lunch",
+      "D": "Toast"
+    },
+    "answer": "C",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is it that after you take away the whole, some still remains?",
+    "options": {
+      "A": "The word 'wholesome'",
+      "B": "A leftover",
+      "C": "A shadow",
+      "D": "A memory"
+    },
+    "answer": "A",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What has words strung together but is not a sentence?",
+    "options": {
+      "A": "A code",
+      "B": "A necklace",
+      "C": "A song",
+      "D": "A poem"
+    },
+    "answer": "B",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What kind of cup doesn't hold water?",
+    "options": {
+      "A": "A measuring cup",
+      "B": "A teacup",
+      "C": "A cupcake",
+      "D": "A trophy cup"
+    },
+    "answer": "C",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What has a bottom at the top?",
+    "options": {
+      "A": "A mountain",
+      "B": "A well",
+      "C": "Your legs",
+      "D": "A bottle"
+    },
+    "answer": "C",
+    "difficulty": "medium"
+  },
+  {
+    "question": "The more of this there is, the less you see. What is it?",
+    "options": {
+      "A": "Rain",
+      "B": "Fog",
+      "C": "Smoke",
+      "D": "Darkness"
+    },
+    "answer": "D",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What can be given but kept at the same time?",
+    "options": {
+      "A": "Your word",
+      "B": "Attention",
+      "C": "A smile",
+      "D": "Advice"
+    },
+    "answer": "A",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What travels the world but stays in one spot?",
+    "options": {
+      "A": "A satellite",
+      "B": "A stamp on a letter",
+      "C": "A postcard",
+      "D": "A coin"
+    },
+    "answer": "B",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What has a heart that doesn't beat?",
+    "options": {
+      "A": "A statue",
+      "B": "A robot",
+      "C": "A clock",
+      "D": "An artichoke"
+    },
+    "answer": "D",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is always ahead of you but you can never catch it?",
+    "options": {
+      "A": "The horizon",
+      "B": "Your shadow",
+      "C": "Your reflection when walking toward a mirror",
+      "D": "Time"
+    },
+    "answer": "C",
+    "difficulty": "medium"
+  },
+  {
+    "question": "I am taken from a mine and shut up in a wooden case, from which I am never released, yet I am used by almost everyone. What am I?",
+    "options": {
+      "A": "Gold",
+      "B": "Iron ore",
+      "C": "Pencil lead",
+      "D": "Coal"
+    },
+    "answer": "C",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What building holds the most people but has the fewest rooms?",
+    "options": {
+      "A": "A mall",
+      "B": "A stadium",
+      "C": "An airport",
+      "D": "A hotel"
+    },
+    "answer": "B",
+    "difficulty": "medium"
+  },
+  {
+    "question": "The more you feed it, the more it grows; but if you give it water, it will die. What is it?",
+    "options": {
+      "A": "A weed",
+      "B": "Fire",
+      "C": "A rumor",
+      "D": "Debt"
+    },
+    "answer": "B",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What kind of table has no legs?",
+    "options": {
+      "A": "A pool table",
+      "B": "A round table",
+      "C": "A picnic table",
+      "D": "A timetable"
+    },
+    "answer": "D",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is so delicate that saying its name breaks it, yet it protects the deepest thoughts?",
+    "options": {
+      "A": "Trust",
+      "B": "A whisper",
+      "C": "A secret",
+      "D": "Silence"
+    },
+    "answer": "D",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What loses its head in the morning and gets it back at night?",
+    "options": {
+      "A": "A lamp",
+      "B": "A shadow",
+      "C": "A flower",
+      "D": "A pillow"
+    },
+    "answer": "D",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What has a bark but no bite, and stands but does not walk?",
+    "options": {
+      "A": "A tree",
+      "B": "A fence",
+      "C": "A dog statue",
+      "D": "A guard post"
+    },
+    "answer": "A",
+    "difficulty": "medium"
+  },
+  {
+    "question": "I follow you all day but disappear at night. What am I?",
+    "options": {
+      "A": "A lamp",
+      "B": "Your shadow",
+      "C": "Sunlight",
+      "D": "Your reflection"
+    },
+    "answer": "B",
+    "difficulty": "medium"
+  },
+  {
+    "question": "At night they come without being fetched, and by day they are lost without being stolen. What are they?",
+    "options": {
+      "A": "Fireflies",
+      "B": "Stars",
+      "C": "Thoughts",
+      "D": "Dreams"
+    },
+    "answer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "question": "A man who was outside in the rain without an umbrella or hat didn't get a single hair on his head wet. How?",
+    "options": {
+      "A": "He was bald",
+      "B": "It wasn't raining where he stood",
+      "C": "He wore a raincoat",
+      "D": "He was inside a car"
+    },
+    "answer": "A",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What can travel faster than light, is invisible even in the best light, and is found in the darkest corners of the universe?",
+    "options": {
+      "A": "Darkness itself",
+      "B": "Sound",
+      "C": "A shadow",
+      "D": "A black hole"
+    },
+    "answer": "A",
+    "difficulty": "hard"
+  },
+  {
+    "question": "I am not alive, yet I can die; I have no lungs, yet I need air; I have no mouth, yet water kills me. What am I?",
+    "options": {
+      "A": "Rust",
+      "B": "A star",
+      "C": "Fire",
+      "D": "A battery"
+    },
+    "answer": "C",
+    "difficulty": "hard"
+  },
+  {
+    "question": "The more you remove from me, the bigger I become. What am I?",
+    "options": {
+      "A": "A crater",
+      "B": "A cave",
+      "C": "A hole",
+      "D": "A debt"
+    },
+    "answer": "C",
+    "difficulty": "hard"
+  },
+  {
+    "question": "A woman shoots her husband, then holds him underwater for five minutes, then hangs him. Five minutes later they enjoy a lovely dinner. How?",
+    "options": {
+      "A": "It was a dream",
+      "B": "It was a play",
+      "C": "She developed a photograph",
+      "D": "He was a robot"
+    },
+    "answer": "C",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What English word retains the same pronunciation after you take away four of its five letters?",
+    "options": {
+      "A": "Eight",
+      "B": "Queue",
+      "C": "Colonel",
+      "D": "Island"
+    },
+    "answer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "question": "I have cities, but no houses; mountains, but no trees; water, but no fish. What am I?",
+    "options": {
+      "A": "A globe",
+      "B": "A dream",
+      "C": "A model",
+      "D": "A map"
+    },
+    "answer": "D",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is greater than God, more evil than the devil, the poor have it, the rich need it, and if you eat it, you'll die?",
+    "options": {
+      "A": "Fear",
+      "B": "Greed",
+      "C": "Nothing",
+      "D": "Time"
+    },
+    "answer": "C",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Forward I am heavy, but backward I am not. What am I?",
+    "options": {
+      "A": "The word 'stop'",
+      "B": "The word 'ton'",
+      "C": "The word 'pot'",
+      "D": "The word 'live'"
+    },
+    "answer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What can be measured but has no length, width, or weight?",
+    "options": {
+      "A": "Value",
+      "B": "Time",
+      "C": "Sound",
+      "D": "Temperature"
+    },
+    "answer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "question": "I am always hungry and must always be fed, but the finger I touch will soon turn red. What am I?",
+    "options": {
+      "A": "A stove",
+      "B": "A mosquito",
+      "C": "A blister",
+      "D": "Fire"
+    },
+    "answer": "D",
+    "difficulty": "hard"
+  },
+  {
+    "question": "A man is found dead in a field with an unopened package next to him. There are no other tracks or signs of life anywhere in the field. What happened?",
+    "options": {
+      "A": "He was poisoned by the package",
+      "B": "He was struck by lightning",
+      "C": "His parachute failed to open",
+      "D": "He fell from a tree"
+    },
+    "answer": "C",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Give me food, and I will live; give me water, and I will die. What am I?",
+    "options": {
+      "A": "Fire",
+      "B": "A battery",
+      "C": "Ice",
+      "D": "A plant"
+    },
+    "answer": "A",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What word begins and ends with an 'e' but only has one letter?",
+    "options": {
+      "A": "Envelope",
+      "B": "Extreme",
+      "C": "Elite",
+      "D": "Eye"
+    },
+    "answer": "A",
+    "difficulty": "hard"
+  },
+  {
+    "question": "The one who makes it, sells it. The one who buys it, never uses it. The one who uses it, never knows it. What is it?",
+    "options": {
+      "A": "A gravestone",
+      "B": "A coffin",
+      "C": "A wedding ring",
+      "D": "A gift"
+    },
+    "answer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "question": "I have a heart that never beats, a home that's never full, a mouth that never eats, and I need not be fed, still I live and I die by the beat. What am I?",
+    "options": {
+      "A": "A house",
+      "B": "A drum",
+      "C": "A river",
+      "D": "A clock"
+    },
+    "answer": "D",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What disappears the moment you say its name?",
+    "options": {
+      "A": "An echo",
+      "B": "A secret",
+      "C": "A ghost",
+      "D": "Silence"
+    },
+    "answer": "D",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What can be broken, but is never held; and can be given, but never returned once broken?",
+    "options": {
+      "A": "A vow",
+      "B": "A promise",
+      "C": "Trust",
+      "D": "A heart"
+    },
+    "answer": "C",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What five-letter word, when you remove the first letter, becomes a form of energy; and when you remove the first two letters, becomes something you do at a table?",
+    "options": {
+      "A": "Grain",
+      "B": "Steak",
+      "C": "Bread",
+      "D": "Wheat -> heat -> eat"
+    },
+    "answer": "D",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Two fathers and two sons went fishing. They each caught one fish, yet only three fish were caught in total. How?",
+    "options": {
+      "A": "One father lied",
+      "B": "One fish escaped",
+      "C": "There were only three people: a grandfather, a father, and a son",
+      "D": "Two of them fished together"
+    },
+    "answer": "C",
+    "difficulty": "hard"
+  },
+  {
+    "question": "I am taken from the earth, then placed in a wooden case that is never opened, yet I am used almost every day. What am I?",
+    "options": {
+      "A": "Coal",
+      "B": "Pencil graphite",
+      "C": "Iron",
+      "D": "Marble"
+    },
+    "answer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "question": "A doctor and a bus driver are both in love with the same woman. The bus driver had to go on a long trip that would last a week. Before leaving, he gave the woman seven apples. Why?",
+    "options": {
+      "A": "He liked apples",
+      "B": "One apple a day keeps the doctor away",
+      "C": "He forgot bread",
+      "D": "It was a tradition"
+    },
+    "answer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What has an end but no beginning, a home but no family, and space but no room?",
+    "options": {
+      "A": "A keyboard",
+      "B": "The word 'ending'",
+      "C": "A journey",
+      "D": "A universe"
+    },
+    "answer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "question": "The more there is, the less you see, yet without me, nothing can be seen at all. What am I?",
+    "options": {
+      "A": "Fog",
+      "B": "Smoke",
+      "C": "Distance",
+      "D": "Darkness"
+    },
+    "answer": "D",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What comes down but never goes up?",
+    "options": {
+      "A": "A staircase",
+      "B": "Rain",
+      "C": "An elevator",
+      "D": "Snow"
+    },
+    "answer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "question": "I am an odd number. Take away a letter and I become even. What number am I?",
+    "options": {
+      "A": "Eleven",
+      "B": "Nine",
+      "C": "Seven",
+      "D": "Three"
+    },
+    "answer": "C",
+    "difficulty": "hard"
+  },
+  {
+    "question": "A man walks into a bar and asks for a glass of water. The bartender pulls out a gun and points it at him. The man says thank you and walks out. Why?",
+    "options": {
+      "A": "He owed money",
+      "B": "He had hiccups and the scare cured them",
+      "C": "It was a robbery",
+      "D": "The bartender knew him"
+    },
+    "answer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What can pass before the sun without making a shadow?",
+    "options": {
+      "A": "Sound",
+      "B": "Time",
+      "C": "A cloud",
+      "D": "Wind"
+    },
+    "answer": "D",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is it that the more you take away, the larger it becomes, but the more you add, the smaller it gets?",
+    "options": {
+      "A": "Debt",
+      "B": "A gap",
+      "C": "A hole",
+      "D": "A hole in a wall"
+    },
+    "answer": "C",
+    "difficulty": "hard"
+  },
+  {
+    "question": "I am always running but never move, I have a bed but never sleep, and a mouth but never eat. What am I?",
+    "options": {
+      "A": "A road",
+      "B": "A clock",
+      "C": "A river",
+      "D": "The wind"
+    },
+    "answer": "C",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What has four fingers and a thumb but is not living, and never grows old though it may wear out?",
+    "options": {
+      "A": "A glove",
+      "B": "A mannequin",
+      "C": "A puppet",
+      "D": "A statue"
+    },
+    "answer": "A",
+    "difficulty": "hard"
+  },
+  {
+    "question": "If you drop me I'm sure to crack, but give me a smile and I'll always smile back. What am I?",
+    "options": {
+      "A": "An egg",
+      "B": "A mirror",
+      "C": "Glass",
+      "D": "Ice"
+    },
+    "answer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What begins with T, ends with T, and has T in it?",
+    "options": {
+      "A": "A tent",
+      "B": "A toast",
+      "C": "A ticket",
+      "D": "A teapot"
+    },
+    "answer": "D",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is it that goes with you everywhere, yet stays right where you left it?",
+    "options": {
+      "A": "Your shadow",
+      "B": "Your reputation",
+      "C": "Your name",
+      "D": "Your footprints"
+    },
+    "answer": "D",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which weighs more: a pound of feathers or a pound of bricks?",
+    "options": {
+      "A": "Feathers",
+      "B": "Bricks",
+      "C": "They weigh the same",
+      "D": "Neither has weight"
+    },
+    "answer": "C",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Alive without breath, as cold as death, never thirsty though drinking often, clad in mail never clinking. What am I?",
+    "options": {
+      "A": "A snake",
+      "B": "A fish",
+      "C": "A ghost",
+      "D": "A statue"
+    },
+    "answer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is it that no man wants, yet no man wants to lose?",
+    "options": {
+      "A": "A scar",
+      "B": "A debt",
+      "C": "A lawsuit",
+      "D": "Old age"
+    },
+    "answer": "C",
+    "difficulty": "hard"
+  },
+  {
+    "question": "It cannot be seen, cannot be felt, cannot be heard, cannot be smelt. It lies behind stars and under hills, and empty holes it fills. What is it?",
+    "options": {
+      "A": "Wind",
+      "B": "Silence",
+      "C": "Time",
+      "D": "Darkness"
+    },
+    "answer": "D",
+    "difficulty": "hard"
+  },
+  {
+    "question": "You see a boat filled with people, yet there isn't a single person on board. How?",
+    "options": {
+      "A": "It's an illusion",
+      "B": "They are all statues",
+      "C": "Everyone on board is married, so there isn't a single (unmarried) person",
+      "D": "It's a ghost ship"
+    },
+    "answer": "C",
+    "difficulty": "hard"
+  }
+]

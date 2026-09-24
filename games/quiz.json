@@ -1,0 +1,1245 @@
+[
+  {
+    "question": "What do you call a group of lions?",
+    "options": {
+      "A": "Herd",
+      "B": "Pride",
+      "C": "Flock",
+      "D": "Pack"
+    },
+    "answer": "B",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the capital of Kazakhstan?",
+    "options": {
+      "A": "Astana",
+      "B": "Moscow",
+      "C": "Sri Jayawardenepura Kotte",
+      "D": "Bangkok"
+    },
+    "answer": "A",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who wrote the theory of relativity?",
+    "options": {
+      "A": "Nikola Tesla",
+      "B": "Albert Einstein",
+      "C": "Galileo Galilei",
+      "D": "Isaac Newton"
+    },
+    "answer": "B",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the capital of Norway?",
+    "options": {
+      "A": "Naypyidaw",
+      "B": "Oslo",
+      "C": "Ottawa",
+      "D": "Beijing"
+    },
+    "answer": "B",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which word means 'Very tired'?",
+    "options": {
+      "A": "Enthusiastic",
+      "B": "Exhausted",
+      "C": "Excited",
+      "D": "Energetic"
+    },
+    "answer": "B",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which car company made the Model T?",
+    "options": {
+      "A": "General Motors",
+      "B": "Toyota",
+      "C": "Ford",
+      "D": "Chrysler"
+    },
+    "answer": "C",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is a synonym for 'Brave'?",
+    "options": {
+      "A": "Courageous",
+      "B": "Fearful",
+      "C": "Cowardly",
+      "D": "Timid"
+    },
+    "answer": "A",
+    "difficulty": "easy"
+  },
+  {
+    "question": "How many players are on a football (soccer) team on the field?",
+    "options": {
+      "A": "10",
+      "B": "12",
+      "C": "11",
+      "D": "9"
+    },
+    "answer": "C",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the name of the agency responsible for the Apollo missions?",
+    "options": {
+      "A": "Roscosmos",
+      "B": "ISRO",
+      "C": "ESA",
+      "D": "NASA"
+    },
+    "answer": "D",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the capital of Indonesia?",
+    "options": {
+      "A": "Reykjavik",
+      "B": "Jakarta",
+      "C": "Abuja",
+      "D": "Tripoli"
+    },
+    "answer": "B",
+    "difficulty": "medium"
+  },
+  {
+    "question": "How many players are on a basketball team on the court at once?",
+    "options": {
+      "A": "7",
+      "B": "6",
+      "C": "5",
+      "D": "4"
+    },
+    "answer": "C",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the currency used in Nigeria?",
+    "options": {
+      "A": "Rand",
+      "B": "Franc",
+      "C": "Cedi",
+      "D": "Naira"
+    },
+    "answer": "D",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which ocean is the largest?",
+    "options": {
+      "A": "Pacific Ocean",
+      "B": "Indian Ocean",
+      "C": "Arctic Ocean",
+      "D": "Atlantic Ocean"
+    },
+    "answer": "A",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which country was formerly known as Persia?",
+    "options": {
+      "A": "Iran",
+      "B": "Syria",
+      "C": "Turkey",
+      "D": "Iraq"
+    },
+    "answer": "A",
+    "difficulty": "hard"
+  },
+  {
+    "question": "In which year did World War II end?",
+    "options": {
+      "A": "1947",
+      "B": "1943",
+      "C": "1950",
+      "D": "1945"
+    },
+    "answer": "D",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which country gifted the Statue of Liberty to the USA?",
+    "options": {
+      "A": "Italy",
+      "B": "Spain",
+      "C": "Germany",
+      "D": "France"
+    },
+    "answer": "D",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What was the name of the ship that sank in 1912 after hitting an iceberg?",
+    "options": {
+      "A": "Olympic",
+      "B": "Lusitania",
+      "C": "Titanic",
+      "D": "Britannic"
+    },
+    "answer": "C",
+    "difficulty": "easy"
+  },
+  {
+    "question": "How many days are in a leap year?",
+    "options": {
+      "A": "364",
+      "B": "367",
+      "C": "365",
+      "D": "366"
+    },
+    "answer": "D",
+    "difficulty": "easy"
+  },
+  {
+    "question": "In which country did the sport of Judo originate?",
+    "options": {
+      "A": "Japan",
+      "B": "China",
+      "C": "Korea",
+      "D": "Thailand"
+    },
+    "answer": "A",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the tallest animal in the world?",
+    "options": {
+      "A": "Giraffe",
+      "B": "Horse",
+      "C": "Camel",
+      "D": "Elephant"
+    },
+    "answer": "A",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the capital of Finland?",
+    "options": {
+      "A": "Helsinki",
+      "B": "Cairo",
+      "C": "Reykjavik",
+      "D": "Addis Ababa"
+    },
+    "answer": "A",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the capital of Chile?",
+    "options": {
+      "A": "Oslo",
+      "B": "Rabat",
+      "C": "Stockholm",
+      "D": "Santiago"
+    },
+    "answer": "D",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What do astronauts wear outside the spacecraft?",
+    "options": {
+      "A": "Pressure jacket",
+      "B": "Diving suit",
+      "C": "Space suit",
+      "D": "Wetsuit"
+    },
+    "answer": "C",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the capital of New Zealand?",
+    "options": {
+      "A": "Wellington",
+      "B": "Accra",
+      "C": "Reykjavik",
+      "D": "Stockholm"
+    },
+    "answer": "A",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the capital of Austria?",
+    "options": {
+      "A": "Mexico City",
+      "B": "Abuja",
+      "C": "London",
+      "D": "Vienna"
+    },
+    "answer": "D",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What color do you get by mixing blue and yellow?",
+    "options": {
+      "A": "Green",
+      "B": "Brown",
+      "C": "Purple",
+      "D": "Orange"
+    },
+    "answer": "A",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What do you call an animal that eats both plants and meat?",
+    "options": {
+      "A": "Carnivore",
+      "B": "Omnivore",
+      "C": "Herbivore",
+      "D": "Insectivore"
+    },
+    "answer": "B",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the capital of Colombia?",
+    "options": {
+      "A": "Vienna",
+      "B": "Rome",
+      "C": "Athens",
+      "D": "Bogotá"
+    },
+    "answer": "D",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Who invented the World Wide Web?",
+    "options": {
+      "A": "Steve Jobs",
+      "B": "Larry Page",
+      "C": "Bill Gates",
+      "D": "Tim Berners-Lee"
+    },
+    "answer": "D",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who is the founder of Amazon?",
+    "options": {
+      "A": "Bill Gates",
+      "B": "Elon Musk",
+      "C": "Jeff Bezos",
+      "D": "Jack Ma"
+    },
+    "answer": "C",
+    "difficulty": "easy"
+  },
+  {
+    "question": "How many minutes are in a full day?",
+    "options": {
+      "A": "1500",
+      "B": "1600",
+      "C": "1200",
+      "D": "1440"
+    },
+    "answer": "D",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which empire was ruled by Julius Caesar?",
+    "options": {
+      "A": "Greek Empire",
+      "B": "Persian Empire",
+      "C": "Roman Empire",
+      "D": "Ottoman Empire"
+    },
+    "answer": "C",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which country has won the most FIFA World Cups?",
+    "options": {
+      "A": "Argentina",
+      "B": "Italy",
+      "C": "Brazil",
+      "D": "Germany"
+    },
+    "answer": "C",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In boxing, how many rounds are in a standard professional title fight?",
+    "options": {
+      "A": "10",
+      "B": "12",
+      "C": "8",
+      "D": "15"
+    },
+    "answer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the opposite of 'Generous'?",
+    "options": {
+      "A": "Kind",
+      "B": "Giving",
+      "C": "Warm",
+      "D": "Stingy"
+    },
+    "answer": "D",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the capital of Netherlands?",
+    "options": {
+      "A": "Amsterdam",
+      "B": "Ankara",
+      "C": "Santiago",
+      "D": "Beijing"
+    },
+    "answer": "A",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the capital of Switzerland?",
+    "options": {
+      "A": "Bangkok",
+      "B": "Bern",
+      "C": "Naypyidaw",
+      "D": "Pretoria"
+    },
+    "answer": "B",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the capital of Bhutan?",
+    "options": {
+      "A": "Helsinki",
+      "B": "Thimphu",
+      "C": "Amsterdam",
+      "D": "Ottawa"
+    },
+    "answer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "question": "How many rings are on the Olympic flag?",
+    "options": {
+      "A": "7",
+      "B": "5",
+      "C": "6",
+      "D": "4"
+    },
+    "answer": "B",
+    "difficulty": "easy"
+  },
+  {
+    "question": "How many legs does a spider have?",
+    "options": {
+      "A": "12",
+      "B": "6",
+      "C": "10",
+      "D": "8"
+    },
+    "answer": "D",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the capital of Thailand?",
+    "options": {
+      "A": "Wellington",
+      "B": "Bern",
+      "C": "Thimphu",
+      "D": "Bangkok"
+    },
+    "answer": "D",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is a group of wolves called?",
+    "options": {
+      "A": "Pride",
+      "B": "Herd",
+      "C": "Pack",
+      "D": "Flock"
+    },
+    "answer": "C",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the opposite of 'Increase'?",
+    "options": {
+      "A": "Decrease",
+      "B": "Expand",
+      "C": "Grow",
+      "D": "Rise"
+    },
+    "answer": "A",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Who invented the printing press?",
+    "options": {
+      "A": "Isaac Newton",
+      "B": "Galileo",
+      "C": "Leonardo da Vinci",
+      "D": "Johannes Gutenberg"
+    },
+    "answer": "D",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the capital of Sweden?",
+    "options": {
+      "A": "London",
+      "B": "Bern",
+      "C": "Warsaw",
+      "D": "Stockholm"
+    },
+    "answer": "D",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the smallest country in the world?",
+    "options": {
+      "A": "San Marino",
+      "B": "Liechtenstein",
+      "C": "Vatican City",
+      "D": "Monaco"
+    },
+    "answer": "C",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "options": {
+      "A": "Michelangelo",
+      "B": "Vincent van Gogh",
+      "C": "Pablo Picasso",
+      "D": "Leonardo da Vinci"
+    },
+    "answer": "D",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is a baby cat called?",
+    "options": {
+      "A": "Cub",
+      "B": "Kid",
+      "C": "Kitten",
+      "D": "Puppy"
+    },
+    "answer": "C",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the capital of Peru?",
+    "options": {
+      "A": "New Delhi",
+      "B": "Tripoli",
+      "C": "Canberra",
+      "D": "Lima"
+    },
+    "answer": "D",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the national language of Brazil?",
+    "options": {
+      "A": "Spanish",
+      "B": "Portuguese",
+      "C": "Italian",
+      "D": "French"
+    },
+    "answer": "B",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is a baby dog called?",
+    "options": {
+      "A": "Calf",
+      "B": "Kitten",
+      "C": "Cub",
+      "D": "Puppy"
+    },
+    "answer": "D",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the tallest mountain in the world?",
+    "options": {
+      "A": "Mount Everest",
+      "B": "K2",
+      "C": "Kilimanjaro",
+      "D": "Denali"
+    },
+    "answer": "A",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the largest lake in Africa?",
+    "options": {
+      "A": "Lake Chad",
+      "B": "Lake Tanganyika",
+      "C": "Lake Victoria",
+      "D": "Lake Malawi"
+    },
+    "answer": "C",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which is the largest continent by area?",
+    "options": {
+      "A": "Africa",
+      "B": "Europe",
+      "C": "Asia",
+      "D": "North America"
+    },
+    "answer": "C",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which word means the opposite of 'Ancient'?",
+    "options": {
+      "A": "Modern",
+      "B": "Old",
+      "C": "Historic",
+      "D": "Vintage"
+    },
+    "answer": "A",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the largest mammal in the world?",
+    "options": {
+      "A": "African Elephant",
+      "B": "Blue Whale",
+      "C": "Polar Bear",
+      "D": "Giraffe"
+    },
+    "answer": "B",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the capital of Mongolia?",
+    "options": {
+      "A": "Addis Ababa",
+      "B": "Rome",
+      "C": "Ulaanbaatar",
+      "D": "Wellington"
+    },
+    "answer": "C",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the capital of Libya?",
+    "options": {
+      "A": "London",
+      "B": "Tripoli",
+      "C": "Hanoi",
+      "D": "Mexico City"
+    },
+    "answer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which animal is known as the 'King of the Jungle'?",
+    "options": {
+      "A": "Elephant",
+      "B": "Lion",
+      "C": "Tiger",
+      "D": "Leopard"
+    },
+    "answer": "B",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the fastest land animal?",
+    "options": {
+      "A": "Horse",
+      "B": "Lion",
+      "C": "Leopard",
+      "D": "Cheetah"
+    },
+    "answer": "D",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Who founded Microsoft?",
+    "options": {
+      "A": "Bill Gates",
+      "B": "Steve Jobs",
+      "C": "Larry Page",
+      "D": "Mark Zuckerberg"
+    },
+    "answer": "A",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which war was fought between the North and South regions of the USA?",
+    "options": {
+      "A": "Civil War",
+      "B": "Cold War",
+      "C": "Revolutionary War",
+      "D": "World War I"
+    },
+    "answer": "A",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In which sport would you perform a slam dunk?",
+    "options": {
+      "A": "Volleyball",
+      "B": "Basketball",
+      "C": "Tennis",
+      "D": "Baseball"
+    },
+    "answer": "B",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which country has the largest population in the world?",
+    "options": {
+      "A": "Indonesia",
+      "B": "India",
+      "C": "USA",
+      "D": "China"
+    },
+    "answer": "B",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the capital of Morocco?",
+    "options": {
+      "A": "Bogotá",
+      "B": "Warsaw",
+      "C": "Rabat",
+      "D": "Naypyidaw"
+    },
+    "answer": "C",
+    "difficulty": "hard"
+  },
+  {
+    "question": "How many hearts does an octopus have?",
+    "options": {
+      "A": "4",
+      "B": "1",
+      "C": "3",
+      "D": "2"
+    },
+    "answer": "C",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which was the first country to land a person on the Moon?",
+    "options": {
+      "A": "Russia",
+      "B": "China",
+      "C": "India",
+      "D": "USA"
+    },
+    "answer": "D",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the capital of Iceland?",
+    "options": {
+      "A": "Amsterdam",
+      "B": "Vienna",
+      "C": "Reykjavik",
+      "D": "New Delhi"
+    },
+    "answer": "C",
+    "difficulty": "hard"
+  },
+  {
+    "question": "In what year did Nigeria gain independence?",
+    "options": {
+      "A": "1963",
+      "B": "1966",
+      "C": "1960",
+      "D": "1957"
+    },
+    "answer": "C",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the maximum score in a single frame of ten-pin bowling?",
+    "options": {
+      "A": "200",
+      "B": "250",
+      "C": "300",
+      "D": "100"
+    },
+    "answer": "C",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which planet is famous for its rings?",
+    "options": {
+      "A": "Saturn",
+      "B": "Jupiter",
+      "C": "Uranus",
+      "D": "Neptune"
+    },
+    "answer": "A",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which continent is the Sahara Desert located in?",
+    "options": {
+      "A": "Asia",
+      "B": "South America",
+      "C": "Australia",
+      "D": "Africa"
+    },
+    "answer": "D",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is a shooting star actually?",
+    "options": {
+      "A": "A satellite",
+      "B": "A falling planet",
+      "C": "A comet's core",
+      "D": "A meteor burning up"
+    },
+    "answer": "D",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the name of NASA's most famous space telescope?",
+    "options": {
+      "A": "Kepler",
+      "B": "Hubble",
+      "C": "Spitzer",
+      "D": "Chandra"
+    },
+    "answer": "B",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Who is known as the father of computers?",
+    "options": {
+      "A": "Bill Gates",
+      "B": "Steve Jobs",
+      "C": "Charles Babbage",
+      "D": "Alan Turing"
+    },
+    "answer": "C",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which bird is known for its ability to mimic human speech?",
+    "options": {
+      "A": "Eagle",
+      "B": "Parrot",
+      "C": "Owl",
+      "D": "Sparrow"
+    },
+    "answer": "B",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the capital of Argentina?",
+    "options": {
+      "A": "Rabat",
+      "B": "Vienna",
+      "C": "Naypyidaw",
+      "D": "Buenos Aires"
+    },
+    "answer": "D",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Who was the first President of the United States?",
+    "options": {
+      "A": "Abraham Lincoln",
+      "B": "George Washington",
+      "C": "John Adams",
+      "D": "Thomas Jefferson"
+    },
+    "answer": "B",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the currency of Japan?",
+    "options": {
+      "A": "Won",
+      "B": "Yuan",
+      "C": "Yen",
+      "D": "Ringgit"
+    },
+    "answer": "C",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which company created the iPhone?",
+    "options": {
+      "A": "Google",
+      "B": "Apple",
+      "C": "Samsung",
+      "D": "Nokia"
+    },
+    "answer": "B",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which ancient civilization built the pyramids of Giza?",
+    "options": {
+      "A": "Egyptians",
+      "B": "Persians",
+      "C": "Greeks",
+      "D": "Romans"
+    },
+    "answer": "A",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the capital of Poland?",
+    "options": {
+      "A": "Reykjavik",
+      "B": "Warsaw",
+      "C": "Pretoria",
+      "D": "Helsinki"
+    },
+    "answer": "B",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the capital of Portugal?",
+    "options": {
+      "A": "Nairobi",
+      "B": "Athens",
+      "C": "Abuja",
+      "D": "Lisbon"
+    },
+    "answer": "D",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the largest desert in the world?",
+    "options": {
+      "A": "Sahara Desert",
+      "B": "Antarctic Desert",
+      "C": "Kalahari Desert",
+      "D": "Gobi Desert"
+    },
+    "answer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What sport is played at Wimbledon?",
+    "options": {
+      "A": "Cricket",
+      "B": "Golf",
+      "C": "Rugby",
+      "D": "Tennis"
+    },
+    "answer": "D",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the loudest animal on Earth?",
+    "options": {
+      "A": "Blue Whale",
+      "B": "Lion",
+      "C": "Elephant",
+      "D": "Howler Monkey"
+    },
+    "answer": "A",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who is known for inventing dynamite?",
+    "options": {
+      "A": "Marie Curie",
+      "B": "Louis Pasteur",
+      "C": "Alfred Nobel",
+      "D": "Albert Einstein"
+    },
+    "answer": "C",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the plural of 'Mouse' (the animal)?",
+    "options": {
+      "A": "Meece",
+      "B": "Mouse",
+      "C": "Mice",
+      "D": "Mouses"
+    },
+    "answer": "C",
+    "difficulty": "medium"
+  },
+  {
+    "question": "The Great Wall is located in which country?",
+    "options": {
+      "A": "Mongolia",
+      "B": "China",
+      "C": "India",
+      "D": "Japan"
+    },
+    "answer": "B",
+    "difficulty": "easy"
+  },
+  {
+    "question": "How long does it take Earth to orbit the Sun?",
+    "options": {
+      "A": "12 months exactly",
+      "B": "30 days",
+      "C": "24 hours",
+      "D": "365 days"
+    },
+    "answer": "D",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the opposite of 'Hot'?",
+    "options": {
+      "A": "Mild",
+      "B": "Cold",
+      "C": "Warm",
+      "D": "Cool"
+    },
+    "answer": "B",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What galaxy is our solar system located in?",
+    "options": {
+      "A": "Andromeda",
+      "B": "Whirlpool",
+      "C": "Milky Way",
+      "D": "Triangulum"
+    },
+    "answer": "C",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the longest river in the world?",
+    "options": {
+      "A": "Mississippi River",
+      "B": "Nile River",
+      "C": "Amazon River",
+      "D": "Yangtze River"
+    },
+    "answer": "B",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which planet is closest to the Sun?",
+    "options": {
+      "A": "Venus",
+      "B": "Earth",
+      "C": "Mars",
+      "D": "Mercury"
+    },
+    "answer": "D",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which African country is known as the 'Land of a Thousand Hills'?",
+    "options": {
+      "A": "Uganda",
+      "B": "Kenya",
+      "C": "Rwanda",
+      "D": "Tanzania"
+    },
+    "answer": "C",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which mammal can fly?",
+    "options": {
+      "A": "Flying squirrel",
+      "B": "Bat",
+      "C": "Sugar glider",
+      "D": "Colugo"
+    },
+    "answer": "B",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the capital of Greece?",
+    "options": {
+      "A": "Accra",
+      "B": "Brasília",
+      "C": "Bogotá",
+      "D": "Athens"
+    },
+    "answer": "D",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the capital of Vietnam?",
+    "options": {
+      "A": "Berlin",
+      "B": "Accra",
+      "C": "Hanoi",
+      "D": "Seoul"
+    },
+    "answer": "C",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the capital of Ethiopia?",
+    "options": {
+      "A": "Addis Ababa",
+      "B": "Rome",
+      "C": "Warsaw",
+      "D": "Cairo"
+    },
+    "answer": "A",
+    "difficulty": "hard"
+  },
+  {
+    "question": "How many continents are there?",
+    "options": {
+      "A": "5",
+      "B": "6",
+      "C": "7",
+      "D": "8"
+    },
+    "answer": "C",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What was the name of the first artificial satellite launched into space?",
+    "options": {
+      "A": "Sputnik 1",
+      "B": "Apollo 11",
+      "C": "Voyager 1",
+      "D": "Hubble"
+    },
+    "answer": "A",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is a synonym for 'Intelligent'?",
+    "options": {
+      "A": "Dull",
+      "B": "Naive",
+      "C": "Clever",
+      "D": "Foolish"
+    },
+    "answer": "C",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Who discovered gravity after seeing an apple fall?",
+    "options": {
+      "A": "Isaac Newton",
+      "B": "Galileo",
+      "C": "Copernicus",
+      "D": "Albert Einstein"
+    },
+    "answer": "A",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which word means the same as 'Huge'?",
+    "options": {
+      "A": "Slight",
+      "B": "Enormous",
+      "C": "Tiny",
+      "D": "Small"
+    },
+    "answer": "B",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which is the largest bird in the world?",
+    "options": {
+      "A": "Albatross",
+      "B": "Ostrich",
+      "C": "Condor",
+      "D": "Eagle"
+    },
+    "answer": "B",
+    "difficulty": "medium"
+  },
+  {
+    "question": "How often are the Summer Olympic Games held?",
+    "options": {
+      "A": "Every 3 years",
+      "B": "Every 5 years",
+      "C": "Every 2 years",
+      "D": "Every 4 years"
+    },
+    "answer": "D",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the capital of Myanmar?",
+    "options": {
+      "A": "Stockholm",
+      "B": "Wellington",
+      "C": "Ulaanbaatar",
+      "D": "Naypyidaw"
+    },
+    "answer": "D",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who was the first man to walk on the Moon?",
+    "options": {
+      "A": "John Glenn",
+      "B": "Yuri Gagarin",
+      "C": "Neil Armstrong",
+      "D": "Buzz Aldrin"
+    },
+    "answer": "C",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Who is credited with inventing the telephone?",
+    "options": {
+      "A": "Alexander Graham Bell",
+      "B": "Guglielmo Marconi",
+      "C": "Nikola Tesla",
+      "D": "Thomas Edison"
+    },
+    "answer": "A",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Who invented the light bulb (commercially)?",
+    "options": {
+      "A": "Michael Faraday",
+      "B": "Thomas Edison",
+      "C": "Benjamin Franklin",
+      "D": "James Watt"
+    },
+    "answer": "B",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the capital of Sri Lanka?",
+    "options": {
+      "A": "Addis Ababa",
+      "B": "Stockholm",
+      "C": "Tripoli",
+      "D": "Sri Jayawardenepura Kotte"
+    },
+    "answer": "D",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who founded Facebook?",
+    "options": {
+      "A": "Bill Gates",
+      "B": "Jeff Bezos",
+      "C": "Mark Zuckerberg",
+      "D": "Elon Musk"
+    },
+    "answer": "C",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is a synonym for 'Happy'?",
+    "options": {
+      "A": "Tired",
+      "B": "Joyful",
+      "C": "Angry",
+      "D": "Sad"
+    },
+    "answer": "B",
+    "difficulty": "easy"
+  }
+]

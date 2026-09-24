@@ -1,0 +1,697 @@
+[
+  {
+    "word": "BANANA",
+    "hint": "A long curved yellow fruit",
+    "difficulty": "easy"
+  },
+  {
+    "word": "YOGHURT",
+    "hint": "A dairy product made from fermented milk",
+    "difficulty": "medium"
+  },
+  {
+    "word": "OBSERVATION",
+    "hint": "The action of watching something carefully",
+    "difficulty": "hard"
+  },
+  {
+    "word": "FESTIVAL",
+    "hint": "A celebration often with music and food",
+    "difficulty": "medium"
+  },
+  {
+    "word": "FAMILY",
+    "hint": "Your parents, siblings, and relatives",
+    "difficulty": "easy"
+  },
+  {
+    "word": "CANDY",
+    "hint": "Sweet treat, often sugary",
+    "difficulty": "easy"
+  },
+  {
+    "word": "SPRING",
+    "hint": "The season when flowers bloom",
+    "difficulty": "easy"
+  },
+  {
+    "word": "RADIO",
+    "hint": "Device that plays broadcast audio",
+    "difficulty": "easy"
+  },
+  {
+    "word": "FRUIT",
+    "hint": "Sweet produce like apples and bananas",
+    "difficulty": "easy"
+  },
+  {
+    "word": "PIZZA",
+    "hint": "A popular Italian dish with cheese and toppings",
+    "difficulty": "easy"
+  },
+  {
+    "word": "JACKET",
+    "hint": "A piece of clothing worn over a shirt",
+    "difficulty": "easy"
+  },
+  {
+    "word": "LANGUAGE",
+    "hint": "A system of communication used by humans",
+    "difficulty": "medium"
+  },
+  {
+    "word": "HOUSE",
+    "hint": "A place where people live",
+    "difficulty": "easy"
+  },
+  {
+    "word": "MONEY",
+    "hint": "What you use to buy things",
+    "difficulty": "easy"
+  },
+  {
+    "word": "MICROSCOPE",
+    "hint": "An instrument used to see very small objects",
+    "difficulty": "hard"
+  },
+  {
+    "word": "SCIENCE",
+    "hint": "The study of the natural world through experiments",
+    "difficulty": "medium"
+  },
+  {
+    "word": "PARLIAMENT",
+    "hint": "The legislative body of a government",
+    "difficulty": "hard"
+  },
+  {
+    "word": "SOFTWARE",
+    "hint": "Programs that run on a computer",
+    "difficulty": "medium"
+  },
+  {
+    "word": "TIGER",
+    "hint": "Large striped wild cat",
+    "difficulty": "easy"
+  },
+  {
+    "word": "POPULATION",
+    "hint": "The number of people living in a place",
+    "difficulty": "hard"
+  },
+  {
+    "word": "PENGUIN",
+    "hint": "A flightless bird that lives in cold climates",
+    "difficulty": "medium"
+  },
+  {
+    "word": "NATURE",
+    "hint": "The physical world including plants and animals",
+    "difficulty": "medium"
+  },
+  {
+    "word": "AIRPLANE",
+    "hint": "A vehicle that flies through the sky",
+    "difficulty": "medium"
+  },
+  {
+    "word": "CHEMISTRY",
+    "hint": "The scientific study of substances and reactions",
+    "difficulty": "medium"
+  },
+  {
+    "word": "CHAIR",
+    "hint": "Furniture you sit on",
+    "difficulty": "easy"
+  },
+  {
+    "word": "OCTOPUS",
+    "hint": "A sea creature with eight arms",
+    "difficulty": "medium"
+  },
+  {
+    "word": "ANDROID",
+    "hint": "A mobile operating system by Google",
+    "difficulty": "medium"
+  },
+  {
+    "word": "SUN",
+    "hint": "The star at the center of our solar system",
+    "difficulty": "easy"
+  },
+  {
+    "word": "CIVILIZATION",
+    "hint": "An advanced stage of human social development",
+    "difficulty": "hard"
+  },
+  {
+    "word": "REFRIGERATOR",
+    "hint": "An appliance that keeps food cold",
+    "difficulty": "hard"
+  },
+  {
+    "word": "METAMORPHOSIS",
+    "hint": "The transformation of an animal, like caterpillar to butterfly",
+    "difficulty": "hard"
+  },
+  {
+    "word": "APPLE",
+    "hint": "A common red or green fruit",
+    "difficulty": "easy"
+  },
+  {
+    "word": "DOG",
+    "hint": "Man's best friend, loves to bark",
+    "difficulty": "easy"
+  },
+  {
+    "word": "DANCE",
+    "hint": "Moving your body to music",
+    "difficulty": "easy"
+  },
+  {
+    "word": "SUGAR",
+    "hint": "Sweet white crystals used in cooking",
+    "difficulty": "easy"
+  },
+  {
+    "word": "LIGHT",
+    "hint": "Opposite of darkness",
+    "difficulty": "easy"
+  },
+  {
+    "word": "SATELLITE",
+    "hint": "An object that orbits a planet",
+    "difficulty": "medium"
+  },
+  {
+    "word": "GARDEN",
+    "hint": "A place where you grow plants and flowers",
+    "difficulty": "easy"
+  },
+  {
+    "word": "LIBRARY",
+    "hint": "A place filled with books to read or borrow",
+    "difficulty": "medium"
+  },
+  {
+    "word": "MOUNTAIN",
+    "hint": "A very tall natural landform",
+    "difficulty": "medium"
+  },
+  {
+    "word": "DINOSAUR",
+    "hint": "Extinct giant reptiles that once ruled the Earth",
+    "difficulty": "medium"
+  },
+  {
+    "word": "UMBRELLA",
+    "hint": "You use this to stay dry in the rain",
+    "difficulty": "medium"
+  },
+  {
+    "word": "CASTLE",
+    "hint": "A large fortified building, home to kings",
+    "difficulty": "easy"
+  },
+  {
+    "word": "SCHOOL",
+    "hint": "A place where children go to learn",
+    "difficulty": "easy"
+  },
+  {
+    "word": "PSYCHOLOGY",
+    "hint": "The scientific study of the human mind and behavior",
+    "difficulty": "hard"
+  },
+  {
+    "word": "DESERT",
+    "hint": "A dry, sandy region with little rainfall",
+    "difficulty": "medium"
+  },
+  {
+    "word": "ENTREPRENEUR",
+    "hint": "A person who starts and runs a business",
+    "difficulty": "hard"
+  },
+  {
+    "word": "AUTUMN",
+    "hint": "The season when leaves fall",
+    "difficulty": "easy"
+  },
+  {
+    "word": "PHILOSOPHY",
+    "hint": "The study of fundamental questions about existence",
+    "difficulty": "hard"
+  },
+  {
+    "word": "FURNITURE",
+    "hint": "Movable objects like chairs and tables in a home",
+    "difficulty": "medium"
+  },
+  {
+    "word": "QUEEN",
+    "hint": "A female monarch",
+    "difficulty": "easy"
+  },
+  {
+    "word": "GOVERNMENT",
+    "hint": "The group that governs a country or state",
+    "difficulty": "hard"
+  },
+  {
+    "word": "LABORATORY",
+    "hint": "A room equipped for scientific experiments",
+    "difficulty": "hard"
+  },
+  {
+    "word": "VILLAGE",
+    "hint": "A small community smaller than a town",
+    "difficulty": "medium"
+  },
+  {
+    "word": "VACATION",
+    "hint": "A trip taken for rest or leisure",
+    "difficulty": "medium"
+  },
+  {
+    "word": "VOLCANO",
+    "hint": "A mountain that can erupt with lava",
+    "difficulty": "medium"
+  },
+  {
+    "word": "EXTRAORDINARY",
+    "hint": "Beyond what is usual or ordinary",
+    "difficulty": "hard"
+  },
+  {
+    "word": "MEDICINE",
+    "hint": "Used to treat illness",
+    "difficulty": "medium"
+  },
+  {
+    "word": "WEDDING",
+    "hint": "A ceremony where two people get married",
+    "difficulty": "medium"
+  },
+  {
+    "word": "UNIVERSE",
+    "hint": "All of space and everything in it",
+    "difficulty": "medium"
+  },
+  {
+    "word": "PHONE",
+    "hint": "A device used to make calls",
+    "difficulty": "easy"
+  },
+  {
+    "word": "PARTY",
+    "hint": "A fun social gathering",
+    "difficulty": "easy"
+  },
+  {
+    "word": "UNIVERSITY",
+    "hint": "A place of higher education after secondary school",
+    "difficulty": "hard"
+  },
+  {
+    "word": "ATMOSPHERE",
+    "hint": "The layer of gases surrounding a planet",
+    "difficulty": "hard"
+  },
+  {
+    "word": "BACKPACK",
+    "hint": "A bag carried on your back, often used by students",
+    "difficulty": "medium"
+  },
+  {
+    "word": "CALENDAR",
+    "hint": "Shows the days, weeks and months of the year",
+    "difficulty": "medium"
+  },
+  {
+    "word": "CONSTITUTION",
+    "hint": "The fundamental laws governing a country",
+    "difficulty": "hard"
+  },
+  {
+    "word": "BEACH",
+    "hint": "Sandy area next to the sea",
+    "difficulty": "easy"
+  },
+  {
+    "word": "ENCYCLOPEDIA",
+    "hint": "A book or set of books with information on many topics",
+    "difficulty": "hard"
+  },
+  {
+    "word": "ENVIRONMENT",
+    "hint": "The natural world around us",
+    "difficulty": "hard"
+  },
+  {
+    "word": "BOOK",
+    "hint": "You read this for stories or facts",
+    "difficulty": "easy"
+  },
+  {
+    "word": "SMILE",
+    "hint": "An expression of happiness on your face",
+    "difficulty": "easy"
+  },
+  {
+    "word": "MOUSE",
+    "hint": "Small rodent, or a computer pointer device",
+    "difficulty": "easy"
+  },
+  {
+    "word": "PURPLE",
+    "hint": "A color made by mixing red and blue",
+    "difficulty": "easy"
+  },
+  {
+    "word": "TEACHER",
+    "hint": "A person who educates students",
+    "difficulty": "medium"
+  },
+  {
+    "word": "KNOWLEDGE",
+    "hint": "Facts, information and skills gained through experience",
+    "difficulty": "hard"
+  },
+  {
+    "word": "HEART",
+    "hint": "Organ that pumps blood",
+    "difficulty": "easy"
+  },
+  {
+    "word": "MUSIC",
+    "hint": "Sounds arranged to be pleasant to hear",
+    "difficulty": "easy"
+  },
+  {
+    "word": "ARCHITECTURE",
+    "hint": "The art and science of designing buildings",
+    "difficulty": "hard"
+  },
+  {
+    "word": "DOCUMENT",
+    "hint": "A written or printed record",
+    "difficulty": "medium"
+  },
+  {
+    "word": "STADIUM",
+    "hint": "A large venue used for sports events",
+    "difficulty": "medium"
+  },
+  {
+    "word": "QUARANTINE",
+    "hint": "Isolation to prevent the spread of disease",
+    "difficulty": "hard"
+  },
+  {
+    "word": "FLOWER",
+    "hint": "A colorful part of a plant that blooms",
+    "difficulty": "easy"
+  },
+  {
+    "word": "FOOTBALL",
+    "hint": "A sport played with 11 players on each team",
+    "difficulty": "medium"
+  },
+  {
+    "word": "KITCHEN",
+    "hint": "The room where food is cooked",
+    "difficulty": "medium"
+  },
+  {
+    "word": "TECHNOLOGY",
+    "hint": "The application of science to solve practical problems",
+    "difficulty": "hard"
+  },
+  {
+    "word": "COMPUTER",
+    "hint": "An electronic device used for processing data",
+    "difficulty": "medium"
+  },
+  {
+    "word": "GRAPE",
+    "hint": "Small round fruit, used to make wine",
+    "difficulty": "easy"
+  },
+  {
+    "word": "JAVASCRIPT",
+    "hint": "A popular programming language for the web",
+    "difficulty": "medium"
+  },
+  {
+    "word": "WEEKEND",
+    "hint": "Saturday and Sunday",
+    "difficulty": "medium"
+  },
+  {
+    "word": "CLOUD",
+    "hint": "White or grey, floats in the sky",
+    "difficulty": "easy"
+  },
+  {
+    "word": "JOURNALIST",
+    "hint": "A person who writes news articles",
+    "difficulty": "hard"
+  },
+  {
+    "word": "NOTEBOOK",
+    "hint": "Used to write notes in, or a portable computer",
+    "difficulty": "medium"
+  },
+  {
+    "word": "PLANT",
+    "hint": "A living thing that grows in soil",
+    "difficulty": "easy"
+  },
+  {
+    "word": "ORANGE",
+    "hint": "A citrus fruit, also a color",
+    "difficulty": "easy"
+  },
+  {
+    "word": "MARKET",
+    "hint": "A place where goods are bought and sold",
+    "difficulty": "easy"
+  },
+  {
+    "word": "BRIDGE",
+    "hint": "A structure built to cross a river or road",
+    "difficulty": "easy"
+  },
+  {
+    "word": "TELEVISION",
+    "hint": "A device used to watch shows and movies",
+    "difficulty": "medium"
+  },
+  {
+    "word": "SNAKE",
+    "hint": "A long legless reptile",
+    "difficulty": "easy"
+  },
+  {
+    "word": "INTERNATIONAL",
+    "hint": "Relating to more than one country",
+    "difficulty": "hard"
+  },
+  {
+    "word": "ELECTRIC",
+    "hint": "Relating to or powered by electricity",
+    "difficulty": "medium"
+  },
+  {
+    "word": "DIAMOND",
+    "hint": "A very hard, precious gemstone",
+    "difficulty": "medium"
+  },
+  {
+    "word": "FRIEND",
+    "hint": "A person you like and trust",
+    "difficulty": "easy"
+  },
+  {
+    "word": "HAPPY",
+    "hint": "Feeling of joy",
+    "difficulty": "easy"
+  },
+  {
+    "word": "PAINTING",
+    "hint": "Art created using colors on a canvas",
+    "difficulty": "medium"
+  },
+  {
+    "word": "NIGHT",
+    "hint": "When the sky turns dark",
+    "difficulty": "easy"
+  },
+  {
+    "word": "EARTH",
+    "hint": "The planet we live on",
+    "difficulty": "easy"
+  },
+  {
+    "word": "INDEPENDENCE",
+    "hint": "Freedom from control by another party",
+    "difficulty": "hard"
+  },
+  {
+    "word": "KEYBOARD",
+    "hint": "You type on this to use a computer",
+    "difficulty": "medium"
+  },
+  {
+    "word": "HOSPITAL",
+    "hint": "A place where sick people are treated",
+    "difficulty": "medium"
+  },
+  {
+    "word": "OCEAN",
+    "hint": "A very large body of salt water",
+    "difficulty": "easy"
+  },
+  {
+    "word": "YELLOW",
+    "hint": "The color of the sun and bananas",
+    "difficulty": "easy"
+  },
+  {
+    "word": "PYTHON",
+    "hint": "A versatile programming language named after a snake",
+    "difficulty": "medium"
+  },
+  {
+    "word": "WINTER",
+    "hint": "The coldest season of the year",
+    "difficulty": "easy"
+  },
+  {
+    "word": "WATCH",
+    "hint": "Device worn on the wrist to tell time",
+    "difficulty": "easy"
+  },
+  {
+    "word": "SUMMER",
+    "hint": "The hottest season of the year",
+    "difficulty": "easy"
+  },
+  {
+    "word": "REVOLUTION",
+    "hint": "A sudden or dramatic change, often political",
+    "difficulty": "hard"
+  },
+  {
+    "word": "NEGOTIATION",
+    "hint": "Discussion aimed at reaching an agreement",
+    "difficulty": "hard"
+  },
+  {
+    "word": "ELEPHANT",
+    "hint": "The largest land animal on Earth",
+    "difficulty": "medium"
+  },
+  {
+    "word": "BICYCLE",
+    "hint": "A two-wheeled vehicle you pedal",
+    "difficulty": "medium"
+  },
+  {
+    "word": "WATER",
+    "hint": "You drink this to stay hydrated",
+    "difficulty": "easy"
+  },
+  {
+    "word": "STORM",
+    "hint": "Heavy wind and rain together",
+    "difficulty": "easy"
+  },
+  {
+    "word": "RIVER",
+    "hint": "A flowing body of fresh water",
+    "difficulty": "easy"
+  },
+  {
+    "word": "CAT",
+    "hint": "A small domestic pet that meows",
+    "difficulty": "easy"
+  },
+  {
+    "word": "BASEBALL",
+    "hint": "A sport played with a bat and ball, popular in the USA",
+    "difficulty": "medium"
+  },
+  {
+    "word": "SANDWICH",
+    "hint": "Food made with bread and fillings",
+    "difficulty": "medium"
+  },
+  {
+    "word": "TRAIN",
+    "hint": "Travels on rails",
+    "difficulty": "easy"
+  },
+  {
+    "word": "BREAD",
+    "hint": "Baked food made from flour",
+    "difficulty": "easy"
+  },
+  {
+    "word": "ISLAND",
+    "hint": "Land completely surrounded by water",
+    "difficulty": "easy"
+  },
+  {
+    "word": "BIRTHDAY",
+    "hint": "The annual celebration of the day you were born",
+    "difficulty": "medium"
+  },
+  {
+    "word": "QUALITY",
+    "hint": "A degree of excellence",
+    "difficulty": "medium"
+  },
+  {
+    "word": "RAINBOW",
+    "hint": "A colorful arc that appears after rain",
+    "difficulty": "medium"
+  },
+  {
+    "word": "TABLE",
+    "hint": "Furniture you eat or work on",
+    "difficulty": "easy"
+  },
+  {
+    "word": "BIODIVERSITY",
+    "hint": "The variety of life found in an ecosystem",
+    "difficulty": "hard"
+  },
+  {
+    "word": "HELICOPTER",
+    "hint": "An aircraft with spinning blades on top",
+    "difficulty": "hard"
+  },
+  {
+    "word": "ZEBRA",
+    "hint": "A striped African animal related to the horse",
+    "difficulty": "easy"
+  },
+  {
+    "word": "IMAGINATION",
+    "hint": "The ability to form new ideas or images",
+    "difficulty": "hard"
+  },
+  {
+    "word": "RESTAURANT",
+    "hint": "A place where you pay to eat meals",
+    "difficulty": "hard"
+  },
+  {
+    "word": "MULTIPLICATION",
+    "hint": "The mathematical process of repeated addition",
+    "difficulty": "hard"
+  }
+]

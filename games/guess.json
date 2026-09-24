@@ -1,0 +1,722 @@
+[
+  {
+    "target": 32,
+    "min": 1,
+    "max": 50,
+    "difficulty": "medium"
+  },
+  {
+    "target": 19,
+    "min": 1,
+    "max": 30,
+    "difficulty": "easy"
+  },
+  {
+    "target": 18,
+    "min": 1,
+    "max": 20,
+    "difficulty": "easy"
+  },
+  {
+    "target": 51,
+    "min": 1,
+    "max": 75,
+    "difficulty": "medium"
+  },
+  {
+    "target": 62,
+    "min": 1,
+    "max": 200,
+    "difficulty": "hard"
+  },
+  {
+    "target": 23,
+    "min": 1,
+    "max": 25,
+    "difficulty": "easy"
+  },
+  {
+    "target": 14,
+    "min": 1,
+    "max": 30,
+    "difficulty": "easy"
+  },
+  {
+    "target": 21,
+    "min": 1,
+    "max": 75,
+    "difficulty": "medium"
+  },
+  {
+    "target": 4,
+    "min": 1,
+    "max": 30,
+    "difficulty": "easy"
+  },
+  {
+    "target": 32,
+    "min": 1,
+    "max": 50,
+    "difficulty": "medium"
+  },
+  {
+    "target": 416,
+    "min": 1,
+    "max": 500,
+    "difficulty": "hard"
+  },
+  {
+    "target": 19,
+    "min": 5,
+    "max": 30,
+    "difficulty": "easy"
+  },
+  {
+    "target": 179,
+    "min": 1,
+    "max": 500,
+    "difficulty": "hard"
+  },
+  {
+    "target": 10,
+    "min": 5,
+    "max": 30,
+    "difficulty": "easy"
+  },
+  {
+    "target": 66,
+    "min": 1,
+    "max": 100,
+    "difficulty": "medium"
+  },
+  {
+    "target": 11,
+    "min": 1,
+    "max": 75,
+    "difficulty": "medium"
+  },
+  {
+    "target": 136,
+    "min": 1,
+    "max": 200,
+    "difficulty": "hard"
+  },
+  {
+    "target": 20,
+    "min": 1,
+    "max": 20,
+    "difficulty": "easy"
+  },
+  {
+    "target": 84,
+    "min": 1,
+    "max": 100,
+    "difficulty": "medium"
+  },
+  {
+    "target": 15,
+    "min": 1,
+    "max": 50,
+    "difficulty": "medium"
+  },
+  {
+    "target": 12,
+    "min": 1,
+    "max": 50,
+    "difficulty": "medium"
+  },
+  {
+    "target": 115,
+    "min": 1,
+    "max": 300,
+    "difficulty": "hard"
+  },
+  {
+    "target": 187,
+    "min": 1,
+    "max": 500,
+    "difficulty": "hard"
+  },
+  {
+    "target": 10,
+    "min": 1,
+    "max": 20,
+    "difficulty": "easy"
+  },
+  {
+    "target": 30,
+    "min": 1,
+    "max": 50,
+    "difficulty": "medium"
+  },
+  {
+    "target": 279,
+    "min": 1,
+    "max": 500,
+    "difficulty": "hard"
+  },
+  {
+    "target": 19,
+    "min": 1,
+    "max": 20,
+    "difficulty": "easy"
+  },
+  {
+    "target": 14,
+    "min": 1,
+    "max": 50,
+    "difficulty": "medium"
+  },
+  {
+    "target": 24,
+    "min": 1,
+    "max": 100,
+    "difficulty": "medium"
+  },
+  {
+    "target": 14,
+    "min": 1,
+    "max": 20,
+    "difficulty": "easy"
+  },
+  {
+    "target": 8,
+    "min": 1,
+    "max": 20,
+    "difficulty": "easy"
+  },
+  {
+    "target": 15,
+    "min": 1,
+    "max": 20,
+    "difficulty": "easy"
+  },
+  {
+    "target": 169,
+    "min": 1,
+    "max": 500,
+    "difficulty": "hard"
+  },
+  {
+    "target": 160,
+    "min": 1,
+    "max": 300,
+    "difficulty": "hard"
+  },
+  {
+    "target": 490,
+    "min": 1,
+    "max": 500,
+    "difficulty": "hard"
+  },
+  {
+    "target": 17,
+    "min": 1,
+    "max": 75,
+    "difficulty": "medium"
+  },
+  {
+    "target": 14,
+    "min": 1,
+    "max": 50,
+    "difficulty": "medium"
+  },
+  {
+    "target": 183,
+    "min": 1,
+    "max": 300,
+    "difficulty": "hard"
+  },
+  {
+    "target": 17,
+    "min": 5,
+    "max": 20,
+    "difficulty": "easy"
+  },
+  {
+    "target": 10,
+    "min": 1,
+    "max": 50,
+    "difficulty": "medium"
+  },
+  {
+    "target": 246,
+    "min": 1,
+    "max": 300,
+    "difficulty": "hard"
+  },
+  {
+    "target": 37,
+    "min": 1,
+    "max": 75,
+    "difficulty": "medium"
+  },
+  {
+    "target": 63,
+    "min": 1,
+    "max": 300,
+    "difficulty": "hard"
+  },
+  {
+    "target": 7,
+    "min": 5,
+    "max": 25,
+    "difficulty": "easy"
+  },
+  {
+    "target": 95,
+    "min": 1,
+    "max": 100,
+    "difficulty": "medium"
+  },
+  {
+    "target": 37,
+    "min": 1,
+    "max": 200,
+    "difficulty": "hard"
+  },
+  {
+    "target": 133,
+    "min": 1,
+    "max": 300,
+    "difficulty": "hard"
+  },
+  {
+    "target": 83,
+    "min": 1,
+    "max": 300,
+    "difficulty": "hard"
+  },
+  {
+    "target": 71,
+    "min": 1,
+    "max": 75,
+    "difficulty": "medium"
+  },
+  {
+    "target": 76,
+    "min": 1,
+    "max": 300,
+    "difficulty": "hard"
+  },
+  {
+    "target": 21,
+    "min": 1,
+    "max": 30,
+    "difficulty": "easy"
+  },
+  {
+    "target": 133,
+    "min": 1,
+    "max": 200,
+    "difficulty": "hard"
+  },
+  {
+    "target": 16,
+    "min": 1,
+    "max": 25,
+    "difficulty": "easy"
+  },
+  {
+    "target": 12,
+    "min": 1,
+    "max": 500,
+    "difficulty": "hard"
+  },
+  {
+    "target": 153,
+    "min": 1,
+    "max": 500,
+    "difficulty": "hard"
+  },
+  {
+    "target": 13,
+    "min": 1,
+    "max": 30,
+    "difficulty": "easy"
+  },
+  {
+    "target": 18,
+    "min": 1,
+    "max": 75,
+    "difficulty": "medium"
+  },
+  {
+    "target": 195,
+    "min": 1,
+    "max": 200,
+    "difficulty": "hard"
+  },
+  {
+    "target": 16,
+    "min": 1,
+    "max": 30,
+    "difficulty": "easy"
+  },
+  {
+    "target": 1,
+    "min": 1,
+    "max": 50,
+    "difficulty": "medium"
+  },
+  {
+    "target": 72,
+    "min": 1,
+    "max": 100,
+    "difficulty": "medium"
+  },
+  {
+    "target": 52,
+    "min": 1,
+    "max": 100,
+    "difficulty": "medium"
+  },
+  {
+    "target": 51,
+    "min": 1,
+    "max": 75,
+    "difficulty": "medium"
+  },
+  {
+    "target": 14,
+    "min": 1,
+    "max": 30,
+    "difficulty": "easy"
+  },
+  {
+    "target": 16,
+    "min": 1,
+    "max": 30,
+    "difficulty": "easy"
+  },
+  {
+    "target": 136,
+    "min": 1,
+    "max": 300,
+    "difficulty": "hard"
+  },
+  {
+    "target": 7,
+    "min": 5,
+    "max": 30,
+    "difficulty": "easy"
+  },
+  {
+    "target": 178,
+    "min": 1,
+    "max": 200,
+    "difficulty": "hard"
+  },
+  {
+    "target": 18,
+    "min": 1,
+    "max": 20,
+    "difficulty": "easy"
+  },
+  {
+    "target": 19,
+    "min": 1,
+    "max": 25,
+    "difficulty": "easy"
+  },
+  {
+    "target": 179,
+    "min": 1,
+    "max": 200,
+    "difficulty": "hard"
+  },
+  {
+    "target": 13,
+    "min": 1,
+    "max": 50,
+    "difficulty": "medium"
+  },
+  {
+    "target": 31,
+    "min": 1,
+    "max": 50,
+    "difficulty": "medium"
+  },
+  {
+    "target": 14,
+    "min": 1,
+    "max": 300,
+    "difficulty": "hard"
+  },
+  {
+    "target": 86,
+    "min": 1,
+    "max": 300,
+    "difficulty": "hard"
+  },
+  {
+    "target": 72,
+    "min": 1,
+    "max": 200,
+    "difficulty": "hard"
+  },
+  {
+    "target": 7,
+    "min": 1,
+    "max": 100,
+    "difficulty": "medium"
+  },
+  {
+    "target": 11,
+    "min": 5,
+    "max": 20,
+    "difficulty": "easy"
+  },
+  {
+    "target": 125,
+    "min": 1,
+    "max": 200,
+    "difficulty": "hard"
+  },
+  {
+    "target": 22,
+    "min": 1,
+    "max": 50,
+    "difficulty": "medium"
+  },
+  {
+    "target": 18,
+    "min": 1,
+    "max": 30,
+    "difficulty": "easy"
+  },
+  {
+    "target": 7,
+    "min": 1,
+    "max": 30,
+    "difficulty": "easy"
+  },
+  {
+    "target": 4,
+    "min": 1,
+    "max": 25,
+    "difficulty": "easy"
+  },
+  {
+    "target": 16,
+    "min": 5,
+    "max": 25,
+    "difficulty": "easy"
+  },
+  {
+    "target": 15,
+    "min": 1,
+    "max": 25,
+    "difficulty": "easy"
+  },
+  {
+    "target": 443,
+    "min": 1,
+    "max": 500,
+    "difficulty": "hard"
+  },
+  {
+    "target": 49,
+    "min": 1,
+    "max": 75,
+    "difficulty": "medium"
+  },
+  {
+    "target": 10,
+    "min": 1,
+    "max": 50,
+    "difficulty": "medium"
+  },
+  {
+    "target": 54,
+    "min": 1,
+    "max": 75,
+    "difficulty": "medium"
+  },
+  {
+    "target": 14,
+    "min": 5,
+    "max": 20,
+    "difficulty": "easy"
+  },
+  {
+    "target": 17,
+    "min": 1,
+    "max": 75,
+    "difficulty": "medium"
+  },
+  {
+    "target": 54,
+    "min": 1,
+    "max": 200,
+    "difficulty": "hard"
+  },
+  {
+    "target": 30,
+    "min": 1,
+    "max": 100,
+    "difficulty": "medium"
+  },
+  {
+    "target": 6,
+    "min": 1,
+    "max": 20,
+    "difficulty": "easy"
+  },
+  {
+    "target": 278,
+    "min": 1,
+    "max": 500,
+    "difficulty": "hard"
+  },
+  {
+    "target": 15,
+    "min": 1,
+    "max": 500,
+    "difficulty": "hard"
+  },
+  {
+    "target": 192,
+    "min": 1,
+    "max": 200,
+    "difficulty": "hard"
+  },
+  {
+    "target": 71,
+    "min": 1,
+    "max": 75,
+    "difficulty": "medium"
+  },
+  {
+    "target": 19,
+    "min": 1,
+    "max": 30,
+    "difficulty": "easy"
+  },
+  {
+    "target": 178,
+    "min": 1,
+    "max": 300,
+    "difficulty": "hard"
+  },
+  {
+    "target": 229,
+    "min": 1,
+    "max": 300,
+    "difficulty": "hard"
+  },
+  {
+    "target": 193,
+    "min": 1,
+    "max": 500,
+    "difficulty": "hard"
+  },
+  {
+    "target": 266,
+    "min": 1,
+    "max": 300,
+    "difficulty": "hard"
+  },
+  {
+    "target": 51,
+    "min": 1,
+    "max": 75,
+    "difficulty": "medium"
+  },
+  {
+    "target": 163,
+    "min": 1,
+    "max": 200,
+    "difficulty": "hard"
+  },
+  {
+    "target": 117,
+    "min": 1,
+    "max": 300,
+    "difficulty": "hard"
+  },
+  {
+    "target": 13,
+    "min": 1,
+    "max": 20,
+    "difficulty": "easy"
+  },
+  {
+    "target": 115,
+    "min": 1,
+    "max": 500,
+    "difficulty": "hard"
+  },
+  {
+    "target": 20,
+    "min": 1,
+    "max": 100,
+    "difficulty": "medium"
+  },
+  {
+    "target": 13,
+    "min": 1,
+    "max": 100,
+    "difficulty": "medium"
+  },
+  {
+    "target": 73,
+    "min": 1,
+    "max": 75,
+    "difficulty": "medium"
+  },
+  {
+    "target": 3,
+    "min": 1,
+    "max": 30,
+    "difficulty": "easy"
+  },
+  {
+    "target": 32,
+    "min": 1,
+    "max": 100,
+    "difficulty": "medium"
+  },
+  {
+    "target": 15,
+    "min": 1,
+    "max": 30,
+    "difficulty": "easy"
+  },
+  {
+    "target": 69,
+    "min": 1,
+    "max": 75,
+    "difficulty": "medium"
+  },
+  {
+    "target": 2,
+    "min": 1,
+    "max": 25,
+    "difficulty": "easy"
+  },
+  {
+    "target": 10,
+    "min": 1,
+    "max": 30,
+    "difficulty": "easy"
+  },
+  {
+    "target": 5,
+    "min": 1,
+    "max": 25,
+    "difficulty": "easy"
+  },
+  {
+    "target": 2,
+    "min": 1,
+    "max": 20,
+    "difficulty": "easy"
+  },
+  {
+    "target": 29,
+    "min": 1,
+    "max": 50,
+    "difficulty": "medium"
+  }
+]

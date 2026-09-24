@@ -1,0 +1,1322 @@
+[
+  {
+    "question": "What is the capital of Egypt?",
+    "options": {
+      "A": "Oslo",
+      "B": "Cairo",
+      "C": "Athens",
+      "D": "Wellington"
+    },
+    "answer": "B",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the chemical symbol for Silicon?",
+    "options": {
+      "A": "Ar",
+      "B": "Si",
+      "C": "Mg",
+      "D": "Br"
+    },
+    "answer": "B",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 8 + 20?",
+    "options": {
+      "A": "24",
+      "B": "29",
+      "C": "31",
+      "D": "28"
+    },
+    "answer": "D",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the capital of Japan?",
+    "options": {
+      "A": "Madrid",
+      "B": "Tokyo",
+      "C": "Thimphu",
+      "D": "Bern"
+    },
+    "answer": "B",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the chemical symbol for Nitrogen?",
+    "options": {
+      "A": "Mg",
+      "B": "N",
+      "C": "Si",
+      "D": "Ag"
+    },
+    "answer": "B",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the chemical symbol for Iron?",
+    "options": {
+      "A": "Fe",
+      "B": "U",
+      "C": "Ca",
+      "D": "Al"
+    },
+    "answer": "A",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What planet has the most moons discovered so far?",
+    "options": {
+      "A": "Jupiter",
+      "B": "Saturn",
+      "C": "Mars",
+      "D": "Uranus"
+    },
+    "answer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the chemical symbol for Potassium?",
+    "options": {
+      "A": "Co",
+      "B": "Ni",
+      "C": "Ti",
+      "D": "K"
+    },
+    "answer": "D",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What do bees produce?",
+    "options": {
+      "A": "Milk",
+      "B": "Honey",
+      "C": "Wax only",
+      "D": "Silk"
+    },
+    "answer": "B",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the chemical symbol for Platinum?",
+    "options": {
+      "A": "P",
+      "B": "Sn",
+      "C": "Ti",
+      "D": "Pt"
+    },
+    "answer": "D",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the capital of Australia?",
+    "options": {
+      "A": "Canberra",
+      "B": "Buenos Aires",
+      "C": "Pretoria",
+      "D": "Athens"
+    },
+    "answer": "A",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the capital of Nigeria?",
+    "options": {
+      "A": "Abuja",
+      "B": "Bogotá",
+      "C": "London",
+      "D": "Stockholm"
+    },
+    "answer": "A",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the chemical symbol for Barium?",
+    "options": {
+      "A": "Ag",
+      "B": "Sn",
+      "C": "Ba",
+      "D": "W"
+    },
+    "answer": "C",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is 5 + 2?",
+    "options": {
+      "A": "9",
+      "B": "7",
+      "C": "6",
+      "D": "8"
+    },
+    "answer": "B",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the chemical symbol for Argon?",
+    "options": {
+      "A": "Ar",
+      "B": "Ba",
+      "C": "U",
+      "D": "Al"
+    },
+    "answer": "A",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the capital of India?",
+    "options": {
+      "A": "Cairo",
+      "B": "Berlin",
+      "C": "Tokyo",
+      "D": "New Delhi"
+    },
+    "answer": "D",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the capital of Germany?",
+    "options": {
+      "A": "Berlin",
+      "B": "Naypyidaw",
+      "C": "Bogotá",
+      "D": "Tokyo"
+    },
+    "answer": "A",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the closest star to Earth?",
+    "options": {
+      "A": "Proxima Centauri",
+      "B": "The Sun",
+      "C": "Alpha Centauri",
+      "D": "Sirius"
+    },
+    "answer": "B",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the chemical symbol for Uranium?",
+    "options": {
+      "A": "Na",
+      "B": "Hg",
+      "C": "Br",
+      "D": "U"
+    },
+    "answer": "D",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the capital of South Korea?",
+    "options": {
+      "A": "Ulaanbaatar",
+      "B": "Seoul",
+      "C": "Warsaw",
+      "D": "Sri Jayawardenepura Kotte"
+    },
+    "answer": "B",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the capital of Ghana?",
+    "options": {
+      "A": "Abuja",
+      "B": "Lisbon",
+      "C": "Tokyo",
+      "D": "Accra"
+    },
+    "answer": "D",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which blood type is the universal donor?",
+    "options": {
+      "A": "AB",
+      "B": "O negative",
+      "C": "A",
+      "D": "B"
+    },
+    "answer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the study of stars and space called?",
+    "options": {
+      "A": "Biology",
+      "B": "Chemistry",
+      "C": "Astronomy",
+      "D": "Geology"
+    },
+    "answer": "C",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 5 × 4?",
+    "options": {
+      "A": "22",
+      "B": "20",
+      "C": "15",
+      "D": "5"
+    },
+    "answer": "B",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 12 × 12?",
+    "options": {
+      "A": "144",
+      "B": "159",
+      "C": "129",
+      "D": "146"
+    },
+    "answer": "A",
+    "difficulty": "medium"
+  },
+  {
+    "question": "How many bones are in the adult human body?",
+    "options": {
+      "A": "246",
+      "B": "186",
+      "C": "206",
+      "D": "226"
+    },
+    "answer": "C",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the chemical symbol for Zinc?",
+    "options": {
+      "A": "H",
+      "B": "Zn",
+      "C": "Br",
+      "D": "Fe"
+    },
+    "answer": "B",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the capital of Italy?",
+    "options": {
+      "A": "London",
+      "B": "Lima",
+      "C": "Rome",
+      "D": "Helsinki"
+    },
+    "answer": "C",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 75% of 200?",
+    "options": {
+      "A": "160",
+      "B": "150",
+      "C": "140",
+      "D": "130"
+    },
+    "answer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is 5 × 9?",
+    "options": {
+      "A": "47",
+      "B": "30",
+      "C": "45",
+      "D": "60"
+    },
+    "answer": "C",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the chemical symbol for Silver?",
+    "options": {
+      "A": "Mg",
+      "B": "Ca",
+      "C": "Ne",
+      "D": "Ag"
+    },
+    "answer": "D",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the capital of Russia?",
+    "options": {
+      "A": "Tokyo",
+      "B": "Helsinki",
+      "C": "Moscow",
+      "D": "Vienna"
+    },
+    "answer": "C",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the chemical symbol for Phosphorus?",
+    "options": {
+      "A": "Co",
+      "B": "Ni",
+      "C": "P",
+      "D": "Xe"
+    },
+    "answer": "C",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the capital of Brazil?",
+    "options": {
+      "A": "Hanoi",
+      "B": "Brasília",
+      "C": "Tripoli",
+      "D": "Bogotá"
+    },
+    "answer": "B",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the capital of France?",
+    "options": {
+      "A": "Seoul",
+      "B": "Paris",
+      "C": "Santiago",
+      "D": "Helsinki"
+    },
+    "answer": "B",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the chemical symbol for Aluminium?",
+    "options": {
+      "A": "Al",
+      "B": "Zn",
+      "C": "Pt",
+      "D": "Na"
+    },
+    "answer": "A",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 75% of 40?",
+    "options": {
+      "A": "45",
+      "B": "30",
+      "C": "25",
+      "D": "50"
+    },
+    "answer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is 10% of 300?",
+    "options": {
+      "A": "20",
+      "B": "40",
+      "C": "30",
+      "D": "35"
+    },
+    "answer": "C",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the capital of Canada?",
+    "options": {
+      "A": "Ottawa",
+      "B": "Pretoria",
+      "C": "Jakarta",
+      "D": "Lisbon"
+    },
+    "answer": "A",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What type of animal is a Komodo dragon?",
+    "options": {
+      "A": "Turtle",
+      "B": "Lizard",
+      "C": "Crocodile",
+      "D": "Snake"
+    },
+    "answer": "B",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the chemical symbol for Tin?",
+    "options": {
+      "A": "Si",
+      "B": "Ag",
+      "C": "Cl",
+      "D": "Sn"
+    },
+    "answer": "D",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the process by which plants make food called?",
+    "options": {
+      "A": "Photosynthesis",
+      "B": "Respiration",
+      "C": "Digestion",
+      "D": "Transpiration"
+    },
+    "answer": "A",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the chemical symbol for Copper?",
+    "options": {
+      "A": "K",
+      "B": "Xe",
+      "C": "Ti",
+      "D": "Cu"
+    },
+    "answer": "D",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the largest planet in our solar system?",
+    "options": {
+      "A": "Neptune",
+      "B": "Saturn",
+      "C": "Jupiter",
+      "D": "Earth"
+    },
+    "answer": "C",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the chemical symbol for Xenon?",
+    "options": {
+      "A": "Zn",
+      "B": "Mg",
+      "C": "Xe",
+      "D": "N"
+    },
+    "answer": "C",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is 7 × 9?",
+    "options": {
+      "A": "63",
+      "B": "78",
+      "C": "73",
+      "D": "58"
+    },
+    "answer": "A",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the chemical symbol for Nickel?",
+    "options": {
+      "A": "O",
+      "B": "Ca",
+      "C": "Ni",
+      "D": "He"
+    },
+    "answer": "C",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 7 + 13?",
+    "options": {
+      "A": "22",
+      "B": "20",
+      "C": "23",
+      "D": "21"
+    },
+    "answer": "B",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 5 + 19?",
+    "options": {
+      "A": "24",
+      "B": "26",
+      "C": "27",
+      "D": "22"
+    },
+    "answer": "A",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 25% of 120?",
+    "options": {
+      "A": "30",
+      "B": "15",
+      "C": "40",
+      "D": "50"
+    },
+    "answer": "A",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the capital of China?",
+    "options": {
+      "A": "Beijing",
+      "B": "Rabat",
+      "C": "Seoul",
+      "D": "Santiago"
+    },
+    "answer": "A",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the chemical symbol for Hydrogen?",
+    "options": {
+      "A": "P",
+      "B": "Si",
+      "C": "Al",
+      "D": "H"
+    },
+    "answer": "D",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 10% of 400?",
+    "options": {
+      "A": "40",
+      "B": "30",
+      "C": "60",
+      "D": "55"
+    },
+    "answer": "A",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is 30% of 150?",
+    "options": {
+      "A": "55",
+      "B": "65",
+      "C": "50",
+      "D": "45"
+    },
+    "answer": "D",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What force pulls objects toward Earth?",
+    "options": {
+      "A": "Gravity",
+      "B": "Tension",
+      "C": "Friction",
+      "D": "Magnetism"
+    },
+    "answer": "A",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 11 + 4?",
+    "options": {
+      "A": "16",
+      "B": "15",
+      "C": "19",
+      "D": "13"
+    },
+    "answer": "B",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 40% of 40?",
+    "options": {
+      "A": "36",
+      "B": "21",
+      "C": "16",
+      "D": "6"
+    },
+    "answer": "C",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is 10 × 3?",
+    "options": {
+      "A": "35",
+      "B": "25",
+      "C": "30",
+      "D": "28"
+    },
+    "answer": "C",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 8 × 3?",
+    "options": {
+      "A": "19",
+      "B": "14",
+      "C": "24",
+      "D": "26"
+    },
+    "answer": "C",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 20% of 120?",
+    "options": {
+      "A": "19",
+      "B": "24",
+      "C": "39",
+      "D": "4"
+    },
+    "answer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is 3 × 8?",
+    "options": {
+      "A": "19",
+      "B": "29",
+      "C": "26",
+      "D": "24"
+    },
+    "answer": "D",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 8 × 7?",
+    "options": {
+      "A": "56",
+      "B": "51",
+      "C": "46",
+      "D": "58"
+    },
+    "answer": "A",
+    "difficulty": "medium"
+  },
+  {
+    "question": "How many planets are in our solar system?",
+    "options": {
+      "A": "7",
+      "B": "8",
+      "C": "10",
+      "D": "9"
+    },
+    "answer": "B",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 8 × 4?",
+    "options": {
+      "A": "47",
+      "B": "30",
+      "C": "34",
+      "D": "32"
+    },
+    "answer": "D",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the chemical symbol for Bromine?",
+    "options": {
+      "A": "Sn",
+      "B": "Al",
+      "C": "N",
+      "D": "Br"
+    },
+    "answer": "D",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is 7 + 15?",
+    "options": {
+      "A": "18",
+      "B": "26",
+      "C": "22",
+      "D": "20"
+    },
+    "answer": "C",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is H2O commonly known as?",
+    "options": {
+      "A": "Sugar",
+      "B": "Salt",
+      "C": "Water",
+      "D": "Oxygen"
+    },
+    "answer": "C",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the chemical symbol for Sulfur?",
+    "options": {
+      "A": "Pt",
+      "B": "C",
+      "C": "Al",
+      "D": "S"
+    },
+    "answer": "D",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 19 + 8?",
+    "options": {
+      "A": "23",
+      "B": "27",
+      "C": "28",
+      "D": "31"
+    },
+    "answer": "B",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the boiling point of water in Celsius?",
+    "options": {
+      "A": "90°C",
+      "B": "100°C",
+      "C": "110°C",
+      "D": "120°C"
+    },
+    "answer": "B",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 12 + 3?",
+    "options": {
+      "A": "12",
+      "B": "16",
+      "C": "18",
+      "D": "15"
+    },
+    "answer": "D",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 20 + 15?",
+    "options": {
+      "A": "35",
+      "B": "32",
+      "C": "36",
+      "D": "33"
+    },
+    "answer": "A",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the capital of United Kingdom?",
+    "options": {
+      "A": "Bangkok",
+      "B": "Lima",
+      "C": "London",
+      "D": "Accra"
+    },
+    "answer": "C",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What planet is known as the Red Planet?",
+    "options": {
+      "A": "Jupiter",
+      "B": "Venus",
+      "C": "Saturn",
+      "D": "Mars"
+    },
+    "answer": "D",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 13 + 9?",
+    "options": {
+      "A": "20",
+      "B": "21",
+      "C": "22",
+      "D": "18"
+    },
+    "answer": "C",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 3 × 9?",
+    "options": {
+      "A": "42",
+      "B": "12",
+      "C": "32",
+      "D": "27"
+    },
+    "answer": "D",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the chemical symbol for Chlorine?",
+    "options": {
+      "A": "Cl",
+      "B": "Zn",
+      "C": "Mn",
+      "D": "Ne"
+    },
+    "answer": "A",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What gas do plants absorb from the atmosphere?",
+    "options": {
+      "A": "Carbon Dioxide",
+      "B": "Oxygen",
+      "C": "Nitrogen",
+      "D": "Hydrogen"
+    },
+    "answer": "A",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the chemical symbol for Mercury?",
+    "options": {
+      "A": "Br",
+      "B": "I",
+      "C": "O",
+      "D": "Hg"
+    },
+    "answer": "D",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 20% of 300?",
+    "options": {
+      "A": "50",
+      "B": "60",
+      "C": "75",
+      "D": "40"
+    },
+    "answer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is 5 × 8?",
+    "options": {
+      "A": "38",
+      "B": "30",
+      "C": "50",
+      "D": "40"
+    },
+    "answer": "D",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the chemical symbol for Sodium?",
+    "options": {
+      "A": "Na",
+      "B": "Ag",
+      "C": "Ne",
+      "D": "Au"
+    },
+    "answer": "A",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 14 + 5?",
+    "options": {
+      "A": "21",
+      "B": "16",
+      "C": "22",
+      "D": "19"
+    },
+    "answer": "D",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 6 + 10?",
+    "options": {
+      "A": "17",
+      "B": "18",
+      "C": "15",
+      "D": "16"
+    },
+    "answer": "D",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the chemical symbol for Tungsten?",
+    "options": {
+      "A": "W",
+      "B": "Ca",
+      "C": "Ni",
+      "D": "H"
+    },
+    "answer": "A",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the hardest natural substance on Earth?",
+    "options": {
+      "A": "Quartz",
+      "B": "Gold",
+      "C": "Iron",
+      "D": "Diamond"
+    },
+    "answer": "D",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the capital of Turkey?",
+    "options": {
+      "A": "Ankara",
+      "B": "Bogotá",
+      "C": "Rome",
+      "D": "London"
+    },
+    "answer": "A",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the chemical symbol for Lead?",
+    "options": {
+      "A": "Au",
+      "B": "Pb",
+      "C": "Ag",
+      "D": "C"
+    },
+    "answer": "B",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the chemical symbol for Gold?",
+    "options": {
+      "A": "P",
+      "B": "I",
+      "C": "Pb",
+      "D": "Au"
+    },
+    "answer": "D",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 25% of 200?",
+    "options": {
+      "A": "60",
+      "B": "35",
+      "C": "50",
+      "D": "45"
+    },
+    "answer": "C",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is 7 × 6?",
+    "options": {
+      "A": "42",
+      "B": "52",
+      "C": "32",
+      "D": "57"
+    },
+    "answer": "A",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the smallest unit of matter?",
+    "options": {
+      "A": "Molecule",
+      "B": "Electron",
+      "C": "Atom",
+      "D": "Cell"
+    },
+    "answer": "C",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which organ pumps blood through the body?",
+    "options": {
+      "A": "Lungs",
+      "B": "Liver",
+      "C": "Kidney",
+      "D": "Heart"
+    },
+    "answer": "D",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the capital of Kenya?",
+    "options": {
+      "A": "Bogotá",
+      "B": "Nairobi",
+      "C": "Accra",
+      "D": "Tokyo"
+    },
+    "answer": "B",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 19 + 9?",
+    "options": {
+      "A": "32",
+      "B": "24",
+      "C": "28",
+      "D": "27"
+    },
+    "answer": "C",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the capital of Mexico?",
+    "options": {
+      "A": "Tokyo",
+      "B": "Rome",
+      "C": "Seoul",
+      "D": "Mexico City"
+    },
+    "answer": "D",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 75% of 150?",
+    "options": {
+      "A": "107",
+      "B": "102",
+      "C": "112",
+      "D": "122"
+    },
+    "answer": "C",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is 15% of 240?",
+    "options": {
+      "A": "16",
+      "B": "36",
+      "C": "46",
+      "D": "56"
+    },
+    "answer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the chemical symbol for Titanium?",
+    "options": {
+      "A": "Ag",
+      "B": "U",
+      "C": "Ti",
+      "D": "Cu"
+    },
+    "answer": "C",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 4 × 11?",
+    "options": {
+      "A": "42",
+      "B": "59",
+      "C": "49",
+      "D": "44"
+    },
+    "answer": "D",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 10 × 6?",
+    "options": {
+      "A": "75",
+      "B": "55",
+      "C": "60",
+      "D": "50"
+    },
+    "answer": "C",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the capital of South Africa?",
+    "options": {
+      "A": "Thimphu",
+      "B": "Pretoria",
+      "C": "Reykjavik",
+      "D": "New Delhi"
+    },
+    "answer": "B",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 15 + 12?",
+    "options": {
+      "A": "28",
+      "B": "27",
+      "C": "26",
+      "D": "29"
+    },
+    "answer": "B",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the chemical symbol for Helium?",
+    "options": {
+      "A": "Sn",
+      "B": "W",
+      "C": "He",
+      "D": "Ni"
+    },
+    "answer": "C",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 25% of 240?",
+    "options": {
+      "A": "80",
+      "B": "60",
+      "C": "50",
+      "D": "70"
+    },
+    "answer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is 9 × 8?",
+    "options": {
+      "A": "87",
+      "B": "62",
+      "C": "72",
+      "D": "57"
+    },
+    "answer": "C",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 14 + 4?",
+    "options": {
+      "A": "20",
+      "B": "21",
+      "C": "18",
+      "D": "19"
+    },
+    "answer": "C",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the chemical symbol for Cobalt?",
+    "options": {
+      "A": "Pt",
+      "B": "Co",
+      "C": "Ni",
+      "D": "Cl"
+    },
+    "answer": "B",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the chemical symbol for Carbon?",
+    "options": {
+      "A": "C",
+      "B": "W",
+      "C": "O",
+      "D": "Ne"
+    },
+    "answer": "A",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the chemical symbol for Oxygen?",
+    "options": {
+      "A": "K",
+      "B": "Sn",
+      "C": "O",
+      "D": "Ca"
+    },
+    "answer": "C",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the chemical symbol for Neon?",
+    "options": {
+      "A": "Au",
+      "B": "Ne",
+      "C": "C",
+      "D": "Na"
+    },
+    "answer": "B",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the chemical symbol for Magnesium?",
+    "options": {
+      "A": "Ne",
+      "B": "Mg",
+      "C": "Pb",
+      "D": "Ni"
+    },
+    "answer": "B",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the powerhouse of the cell?",
+    "options": {
+      "A": "Ribosome",
+      "B": "Nucleus",
+      "C": "Mitochondria",
+      "D": "Golgi Body"
+    },
+    "answer": "C",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the chemical symbol for Iodine?",
+    "options": {
+      "A": "I",
+      "B": "U",
+      "C": "Hg",
+      "D": "Sn"
+    },
+    "answer": "A",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the capital of Spain?",
+    "options": {
+      "A": "Rome",
+      "B": "Jakarta",
+      "C": "Ottawa",
+      "D": "Madrid"
+    },
+    "answer": "D",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 25% of 150?",
+    "options": {
+      "A": "47",
+      "B": "32",
+      "C": "52",
+      "D": "37"
+    },
+    "answer": "D",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the chemical symbol for Manganese?",
+    "options": {
+      "A": "Au",
+      "B": "C",
+      "C": "Mn",
+      "D": "Xe"
+    },
+    "answer": "C",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is 50% of 120?",
+    "options": {
+      "A": "55",
+      "B": "70",
+      "C": "50",
+      "D": "60"
+    },
+    "answer": "D",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the speed of light approximately?",
+    "options": {
+      "A": "30,000 km/s",
+      "B": "150,000 km/s",
+      "C": "300,000 km/s",
+      "D": "3,000 km/s"
+    },
+    "answer": "C",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the chemical symbol for Calcium?",
+    "options": {
+      "A": "He",
+      "B": "Ar",
+      "C": "Ca",
+      "D": "S"
+    },
+    "answer": "C",
+    "difficulty": "medium"
+  }
+]
